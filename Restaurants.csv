@@ -1,0 +1,1030 @@
+,Restaurant_Name,Cuisine,Price for 2(approx),Rating,Location,Area,Region
+0,Lake District Bar & Kitchen," North Indian, Asian",1500,5,Necklace Road,,Secunderabad
+1,Ohris Jiva Imperia," North Indian, Chinese, Rajasthani, South Indian",1200,4,White House,Begumpet,Secunderabad
+2,So. The Sky Kitchen," North Indian, Chinese, Asian, Mughlai",1800,4,Aryan's Building,Jubilee Hills,Central West Hyderabad
+3,Jalpaan," North Indian, Italian, Chinese, Continental, Desserts, Beverages",1200,4,Oasis Centre,Begumpet,Secunderabad
+4,The Waterfront," Chinese, North Indian",1500,4.3,Necklace Road,,Secunderabad
+5,By The Bay - Bar Exchange," North Indian, Continental, Chinese",1800,4.1,Khairatabad,,Central Hyderabad
+6,Aish," Hyderabadi, Seafood",2400,4.3,The Park,Somajiguda,Central East Hyderabad
+7,Roastery Coffee at Sicca Bar," Beverages, Fast Food",1800,4.6,The Park,Somajiguda,Central East Hyderabad
+8,Verandah," Chinese, North Indian, Continental, Italian",3300,3.9,The Park,Somajiguda,Central East Hyderabad
+9,Signature Grills," North Indian, Chinese, Italian",1500,4.1,Necklace Road,,Secunderabad
+10,Kismet, Finger Food,2100,4,The Park,Somajiguda,Central East Hyderabad
+11,Pizza Hut," Pizza, Fast Food",800,4.4,The Grand Building,Somajiguda,Central East Hyderabad
+12,Seven Spices," Andhra, Biryani",1000,4.2,Somajiguda,,Central East Hyderabad
+13,Kritunga Restaurant," Andhra, North Indian, Chinese, Hyderabadi",1000,5,Somajiguda,,Central East Hyderabad
+14,Aqua," Finger Food, North Indian, Chinese, Continental",2500,4,The Park,Somajiguda,Central East Hyderabad
+15,Parampara - Flavours of india," Chinese, North Indian",1000,3.9,ANR Center,Banjara Hills,Central East Hyderabad
+16,Headquarters," North Indian, Italian, Chinese, Continental, Desserts, Beverages",1700,4.1,Somajiguda,,Central East Hyderabad
+17,Eagles Pizza," Pizza, Fast Food",600,3.9,Ohud Building,Somajiguda,Central East Hyderabad
+18,Kuchipudi," Andhra, North Indian",1000,4,Katriya Hotel,Somajiguda,Central East Hyderabad
+19,Hideaway, Chinese,400,5,Begumpet,,Secunderabad
+20,Kasuall," Chinese, Continental, North Indian",1300,3.8,Katriya Hotel,Somajiguda,Central East Hyderabad
+21,10 Downing Street," Finger Food, Chinese, Continental, North Indian",2000,4.3,Begumpet,,Secunderabad
+22,Rocket Fuel Cafe, Fast Food,800,4.1,Somajiguda,,Central East Hyderabad
+23,Ice n Spice," North Indian, Continental, South Indian, Chinese",800,4.2,Hotel Inner Circle,Somajiguda,Central East Hyderabad
+24,One Fine Day, Desserts,300,3,Necklace Road,,Secunderabad
+25,Gayathri Bhavan," Chinese, Biryani",400,3.6,SR Nagar,,Central East Hyderabad
+26,Taha Cafe," Continental, Chinese, Beverages",1000,5,Begumpet,,Secunderabad
+27,Mekong," Asian, Thai, Japanese, Desserts",2500,4.8,Marigold Hotel,Begumpet,Secunderabad
+28,WAFL Cafe," Desserts, Fast Food, Beverages",500,4.5,Khairatabad,,Central Hyderabad
+29,The Terrace," Asian, Continental, Beverages, Italian, Chinese",2000,5,Panjagutta,,Central East Hyderabad
+30,Ohri's Eatmor," North Indian, Chinese, Italian, Beverages",500,4.1,White House,Begumpet,Secunderabad
+31,Bidri," Andhra, North Indian, Hyderabadi, Mughlai, Desserts",3500,4.5,Hyderabad Marriott Hotel and Convention Centre,Tank Bund,Central Hyderabad
+32,Subway, Fast Food,500,3.4,Somajiguda,,Central East Hyderabad
+33,Urvasi Bar And Restaurant," North Indian, Chinese",1000,3.9,Hotel Urvasi,Panjagutta,Central East Hyderabad
+34,Country Dine," Chinese, North Indian",700,5,Ameerpet,,Central East Hyderabad
+35,Little Bittle," Continental, Fast Food, Desserts, Beverages",800,3.9,Khairatabad,,Central Hyderabad
+36,10D Bistro," North Indian, Chinese, Fast Food",1200,3.9,Necklace Road,,Secunderabad
+37,Pyramid - Lounge And Pub, Finger Food,1700,4.6,Country Club Complex,Begumpet,Secunderabad
+38,The Funnel Hill Creamery," Desserts, Continental, Beverages",800,4,Begumpet,,Secunderabad
+39,Once Upon A Time," Hyderabadi, Mughlai, North Indian",1700,4.5,Hotel Green Park,Begumpet,Secunderabad
+40,Tulips," Chinese, North Indian, South Indian",1500,4.3,Hotel Green Park,Begumpet,Secunderabad
+41,Minerva Drive In," Street Food, Beverages",400,3.9,The Plaza Hotel,Begumpet,Secunderabad
+42,Hashi Izakaya - Asian Bar & Kitchen," Chinese, Thai, Japanese",1500,4.2,Country Club Complex,Begumpet,Secunderabad
+43,Inchinese, Chinese,600,3.8,Next Galleria Mall,Panjagutta,Central East Hyderabad
+44,Journey 1853 - An Ode To Sahib Sindh Sultan," North Indian, Mughlai",1400,4.1,City Centre Mall,Banjara Hills,Central East Hyderabad
+45,Cayenne," North Indian, Continental, South Indian",2000,3.9,Mercure Hyderabad KCP,Banjara Hills,Central East Hyderabad
+46,Subway, Fast Food,500,3.5,Khairatabad,,Central Hyderabad
+47,Country Oven," Fast Food, Desserts, Beverages",800,4.4,Ameerpet,,Central East Hyderabad
+48,Amogham - The Lake View Restaurant," Chinese, North Indian, Continental, Mughlai",1000,3.8,Khairatabad,,Central Hyderabad
+49,Chinese Pavilion, Chinese,1400,4.4,Banjara Hills,,Central East Hyderabad
+50,Jewel Of Nizam," Hyderabadi, Mughlai",2500,3.9,The Golkonda Hotel,Masab Tank,Central East Hyderabad
+51,NorFest - The Dhaba," North Indian, Chinese",900,4.2,Next Galleria Mall,Panjagutta,Central East Hyderabad
+52,7 Sisters," Japanese, Asian, Chinese",900,4.5,Banjara Hills,,Central East Hyderabad
+53,Taco Bell," Mexican, Tex Mex",500,4.3,Next Galleria Mall,Panjagutta,Central East Hyderabad
+54,Saffron Soul," North Indian, Continental, Desserts",1000,4.2,Marigold Hotel,Begumpet,Secunderabad
+55,Taco Bell," Mexican, Tex Mex",500,3.4,L and T Mall,Panjagutta,Central East Hyderabad
+56,The Bar Project," North Indian, Continental, Italian, Chinese",1800,3.5,Begumpet,,Secunderabad
+57,Gabru Di Chaap," Fast Food, North Indian",500,5,Terminal Drive In,Sindhi Colony,Secunderabad
+58,Manu Bakers Delight, Fast Food,500,4.8,Begumpet,,Secunderabad
+59,Country Oven," Chinese, Fast Food, Desserts",800,5,Banjara Hills,,Central East Hyderabad
+60,Chili’s American Grill and Bar," American, Mexican, Tex Mex",1800,4.3,Banjara Hills,,Central East Hyderabad
+61,Pizza Hut," Pizza, Fast Food",800,3.3,Hyderabad Central Mall,Panjagutta,Central East Hyderabad
+62,Pizzetto," Italian, Pizza",600,3,Next Galleria Mall,Panjagutta,Central East Hyderabad
+63,Atrium Bar," Finger Food, Continental, North Indian",2500,4.5,Taj Deccan Hotel,Banjara Hills,Central East Hyderabad
+64,BadeMiyan Kebabs, North Indian,600,4,Next Galleria Mall,Panjagutta,Central East Hyderabad
+65,Thai Pavilion," Thai, Burmese",3000,4.5,Vivanta By Taj Hotel,Begumpet,Secunderabad
+66,Golden Dragon," Chinese, Asian",3000,4.1,Taj Krishna Hotel,Banjara Hills,Central East Hyderabad
+67,Zing - Sky Bar And Lounge," Asian, Modern Indian, Finger Food",2800,5,Hyatt Place,Banjara Hills,Central East Hyderabad
+68,Ohri's Gufaa," North Indian, Awadhi",1200,4,Basheerbagh,,Central Hyderabad
+69,Spice Junxion," South Indian, Hyderabadi",3600,4.4,Taj Deccan Hotel,Banjara Hills,Central East Hyderabad
+70,Hard Rock Cafe," Continental, American, Fast Food",2400,4.3,GVK One Mall,Banjara Hills,Central East Hyderabad
+71,Encounters," North Indian, South Indian, Continental",3000,4.2,Taj Krishna Hotel,Banjara Hills,Central East Hyderabad
+72,Fat Tiger," Fast Food, Beverages",400,3,White House,Begumpet,Secunderabad
+73,WOK Republic," Asian, Chinese, Thai",600,4.2,Lumbini Amrutha Chambers,Banjara Hills,Central East Hyderabad
+74,Arena," North Indian, Mughlai, Thai, Continental, Chinese",3000,4.1,Taj Deccan Hotel,Banjara Hills,Central East Hyderabad
+75,Brew Bakes Cafe," Fast Food, Mexican, Italian, Asian",500,4.6,Begumpet,,Secunderabad
+76,Indulge Ice Cream, Desserts,300,5,Sanai Plaza,Begumpet,Secunderabad
+77,Momo Nation Cafe," Chinese, Fast Food",300,4.2,Panjagutta,,Central East Hyderabad
+78,Tree House Cafe & Bistro," North Indian, Fast Food, Beverages",1100,5,Begumpet,,Secunderabad
+79,Viva," North Indian, Continental, Thai",2000,4,Vivanta By Taj Hotel,Begumpet,Secunderabad
+80,Cream Stone," Desserts, Beverages",400,2.7,Khairatabad,,Central Hyderabad
+81,Fishland Restaurant," North Indian, Chinese, Andhra",700,3.8,Hotel Savera,Ameerpet,Central East Hyderabad
+82,7 Seasons," North Indian, Chinese",1400,4.7,Banjara Hills,,Central East Hyderabad
+83,Mezbaan Restaurant," North Indian, Chinese, Fast Food",900,4.1,Sanai Plaza,Begumpet,Secunderabad
+84,Chicken Shawarma Hub," Lebanese, Fast Food",400,5,Ameerpet,,Central East Hyderabad
+85,Hibacci -North East Asian Kitchen," Asian, Chinese, Sushi",1000,4.9,Banjara Hills,,Central East Hyderabad
+86,Alfresco," North Indian, Italian, Continental, Mughlai, Beverages",3000,4.3,Taj Krishna Hotel,Banjara Hills,Central East Hyderabad
+87,Firdaus," Hyderabadi, North Indian",1900,4.2,Taj Krishna Hotel,Banjara Hills,Central East Hyderabad
+88,Hare Krishna Santosh Dhaba," North Indian, Chinese",700,5,Khairatabad,,Central Hyderabad
+89,The Gallery Cafe," Continental, Italian, Beverages",800,4.3,Banjara Hills,,Central East Hyderabad
+90,Subway, Fast Food,500,4.8,Mayfair Complex,SP Road,Secunderabad
+91,Gappe Vappe," Street Food, Beverages",500,4.7,Sanai Plaza,Begumpet,Secunderabad
+92,Okra," North Indian, Andhra, Chinese, Continental",3400,4.2,Hyderabad Marriott Hotel and Convention Centre,Tank Bund,Central Hyderabad
+93,Lazeez Khaana," Chinese, North Indian",900,3.6,Divyashakti Complex,Ameerpet,Central East Hyderabad
+94,Fullfills," Continental, Italian, Lebanese, North Indian, Beverages",1000,4.3,M.S.Towers,Banjara Hills,Central East Hyderabad
+95,Exotica," North Indian, Chinese, Asian",1500,4.3,12th Square Building,Banjara Hills,Central East Hyderabad
+96,Rayalaseema Ruchulu," Andhra, South Indian, North Indian",1200,4.1,Ameerpet,,Central East Hyderabad
+97,Amogham Xpress," Italian, South Indian",300,3.7,Khairatabad,,Central Hyderabad
+98,Altitude Lounge Bar," Finger Food, Continental, Fast Food",2900,4.3,Hyderabad Marriott Hotel and Convention Centre,Tank Bund,Central Hyderabad
+99,Cream Stone," Desserts, Beverages",400,4.3,Banjara Hills,,Central East Hyderabad
+100,Cafe Elaichi," Street Food, Fast Food",400,4.1,Sindhi Colony,,Secunderabad
+101,Synfresco," Thai, Japanese",3000,3.7,Taj Deccan Hotel,Banjara Hills,Central East Hyderabad
+102,Indulge Ice Cream, Desserts,300,5,Banjara Hills,,Central East Hyderabad
+103,Barbeque Nation," North Indian, Chinese",2000,4.2,ANR Center,Banjara Hills,Central East Hyderabad
+104,Sanjos Donuts," Fast Food, Desserts, Beverages",500,4,GVK One Mall,Banjara Hills,Central East Hyderabad
+105,Tatva," North Indian, Chinese, Continental",1500,4.3,SP Road,,Secunderabad
+106,Krishnapatnam," Andhra, South Indian, North Indian",1400,3.9,Shreshta Aura,Jubilee Hills,Central West Hyderabad
+107,ABs - Absolute Barbecues," North Indian, Biryani, Continental, Desserts",1600,4.2,Banjara Hills,,Central East Hyderabad
+108,Best of East, Asian,1500,4,The Manohar Hotel,Begumpet,Secunderabad
+109,Chinese Wok, Chinese,800,5,Ameerpet,,Central East Hyderabad
+110,Aromas of Asia," Chinese, Thai, Asian",1300,4.3,City Centre Mall,Banjara Hills,Central East Hyderabad
+111,The Old School Cafe," Chinese, Fast Food, Beverages",800,5,Himayath Nagar,,Central Hyderabad
+112,Almond House, Desserts,500,4.4,Sanai Plaza,Begumpet,Secunderabad
+113,Onesta," Italian, Pizza, Fast Food",800,4,ANR Center,Banjara Hills,Central East Hyderabad
+114,Lisbon Restobar," North Indian, Chinese, Continental",1600,2.8,Country Club Complex,Begumpet,Secunderabad
+115,Barkaas Indo Arabic Restaurant SR Nagar," North Indian, Chinese",900,5,SR Nagar,,Central East Hyderabad
+116,Kritunga Restaurant," Andhra, North Indian, Chinese, Hyderabadi",800,2.4,Erramanzil,,East Hyderabad
+117,Cream Stone," Desserts, Beverages",400,3,Next Galleria Mall,Panjagutta,Central East Hyderabad
+118,California Burrito," Mexican, Fast Food",500,3,L&T Metro Rail Mall Multiplex,Panjagutta,Central East Hyderabad
+119,10D Express," North Indian, Chinese, Continental, Asian",1000,5,The Joint,Banjara Hills,Central East Hyderabad
+120,Almond House, Desserts,500,4.6,Banjara Hills,,Central East Hyderabad
+121,Meethe Miya, Desserts,500,5,Banjara Hills,,Central East Hyderabad
+122,Cream Stone," Desserts, Beverages",400,4.5,SP Road,,Secunderabad
+123,MoMo Cafe," Asian, North Indian, Continental",1600,4.2,The Courtyard by Marriott Hotel,Tank Bund,Central Hyderabad
+124,Cone Pizza," Fast Food, Pizza",200,3,Next Galleria Mall,Panjagutta,Central East Hyderabad
+125,Angeethi Sadda Dhaba," North Indian, Mughlai",1200,3.9,City Centre Mall,Banjara Hills,Central East Hyderabad
+126,Tabla," North Indian, Chinese, Andhra",1800,4.1,Bhaskar Plaza,Banjara Hills,Central East Hyderabad
+127,Amantran," Bengali, Chinese",500,4.4,Himayath Nagar,,Central Hyderabad
+128,Cuiscent," Asian, North Indian, Italian, Continental",1000,4,Lakdi-Ka-Pul,,Central Hyderabad
+129,Dunkin' Donuts," Desserts, Fast Food",600,4,Banjara Hills,,Central East Hyderabad
+130,Makers Of Milkshakes," Beverages, Desserts",400,5,SR Nagar,,Central East Hyderabad
+131,Apsara Ice Creams, Desserts,300,4,Begumpet,,Secunderabad
+132,Huber & Holly, Desserts,800,4,Mayfair Building,Begumpet,Secunderabad
+133,Chai bar, Tea,300,3.5,The Manohar Hotel,Begumpet,Secunderabad
+134,Motifs - The Coffee Shop," North Indian, Chinese",1200,2,Hotel Urvasi,Panjagutta,Central East Hyderabad
+135,Amantran, Bengali,300,2,Panjagutta,,Central East Hyderabad
+136,Cold Stone Creamery, Desserts,300,4,Begumpet,,Secunderabad
+137,A'La Liberty," North Indian, Chinese, Mexican",1000,4.1,Leela Gopal Towers,Banjara Hills,Central East Hyderabad
+138,Hotel Shanbhag," North Indian, Chinese, South Indian",1000,3,Shanbhag Hotel Deluxe,Panjagutta,Central East Hyderabad
+139,Banjara 9 Multicuisine Restaurant," North Indian, Mughlai, Arabian, Biryani, Desserts",1000,5,Khairatabad,,Central Hyderabad
+140,Express By AB's," North Indian, Biryani",600,4.2,Banjara Hills,,Central East Hyderabad
+141,Spice 6 - The Global Dining," North Indian, Chinese, Lebanese",1400,4.2,Banjara Hills,,Central East Hyderabad
+142,Blu Cafe & Lounge, Desserts,700,5,Radisson Blu Plaza Hotel,Banjara Hills,Central East Hyderabad
+143,Cream Stone," Desserts, Beverages",400,3.3,GVK One Mall,Banjara Hills,Central East Hyderabad
+144,Euphoria Bakers," Desserts, Fast Food",500,4.2,Banjara Hills,,Central East Hyderabad
+145,The Joint Bar & Cafe," Chinese, Continental, Fast Food, North Indian, South Indian, Street Food",700,4.1,The Joint,Banjara Hills,Central East Hyderabad
+146,Bikanervala," North Indian, Street Food, Fast Food",1300,4.2,Banjara Hills,,Central East Hyderabad
+147,The Milkshakes Factory," Beverages, Desserts",400,4.2,Ameerpet,,Central East Hyderabad
+148,Aritaaku Bhojanam," Andhra, Biryani",500,3.4,Ameerpet,,Central East Hyderabad
+149,Sync Restro Bar, North Indian,1600,4.4,Best Western Ashoka,Lakdi-Ka-Pul,Central Hyderabad
+150,Holiday Inn Express," North Indian, Italian, Chinese",1400,2.5,Banjara Hills,,Central East Hyderabad
+151,Hotel Fish Land," North Indian, Chinese",800,4.1,Lakdi-Ka-Pul,,Central Hyderabad
+152,Rasa by Ashoka," North Indian, Awadhi, Mughlai, Hyderabadi",2400,4.3,Lakdi-Ka-Pul,,Central Hyderabad
+153,Cassia," North Indian, Chinese",1200,4,Hampshire Plaza Hotel,Lakdi-Ka-Pul,Central Hyderabad
+154,Wow! China, Chinese,1200,3.8,Banjara Hills,,Central East Hyderabad
+155,Babai Express, South Indian,300,4.3,Lakdi-Ka-Pul,,Central Hyderabad
+156,Cheesiaano Pizza," Continental, Fast Food",700,3.9,PG Road,,Secunderabad
+157,Ohri's Eatmor," Fast Food, Desserts",1100,4.2,Ohri's Cuisine Court,Basheerbagh,Central Hyderabad
+158,Santosh Dhaba," North Indian, Chinese",600,3.8,SR Nagar,,Central East Hyderabad
+159,Xero Degrees," Continental, Fast Food, Beverages",800,4,SP Road,,Secunderabad
+160,Hotel SVM Grand," North Indian, Andhra",800,3.5,Banjara Hills,,Central East Hyderabad
+161,Frykiki," Fast Food, Mexican, Asian",800,4,Banjara Hills,,Central East Hyderabad
+162,Ghrelin Cafe and Patisserie," Desserts, Italian, Fast Food, Beverages",600,4.3,Banjara Hills,,Central East Hyderabad
+163,Blue Fox," North Indian, Chinese, Continental",1000,4.1,Minerva Grand,Banjara Hills,Central East Hyderabad
+164,The Roastery Coffee House," American, Continental, Desserts",1000,4.7,Banjara Hills,,Central East Hyderabad
+165,Ohri's Mings Court," Chinese, Continental",1800,4.4,Ohri's Cuisine Court,Basheerbagh,Central Hyderabad
+166,Holy Basil," Asian, Chinese, Thai, Japanese",2200,4.4,Radisson Blu Plaza Hotel,Banjara Hills,Central East Hyderabad
+167,Citrus Cafe," Continental, North Indian, Chinese",2300,3.7,Lemon Tree Hotel,Banjara Hills,Central East Hyderabad
+168,Hotel Abode," North Indian, Chinese",700,3.8,Lakdi-Ka-Pul,,Central Hyderabad
+169,ABs - Absolute Barbecues," North Indian, Continental",1600,4.3,Banjara Hills,,Central East Hyderabad
+170,Curry Pot," North Indian, Chinese, South Indian",1000,4.3,PG Road,,Secunderabad
+171,High Spirits Bar, Finger Food,1400,4,The Central Court Hotel,Lakdi-Ka-Pul,Central Hyderabad
+172,Waffle Magic," Desserts, Fast Food, Beverages",600,3.4,SP Road,,Secunderabad
+173,Arabella," Fast Food, North Indian, Arabian, Lebanese",900,4.4,Lakdi-Ka-Pul,,Central Hyderabad
+174,Hydrate - The Bar, North Indian,1500,3.7,Hampshire Plaza Hotel,Lakdi-Ka-Pul,Central Hyderabad
+175,Blue Fox," North Indian, Chinese, Continental",1100,4.4,Hotel Minerva Grand,SD Road,Secunderabad
+176,Bar 41, Finger Food,1900,4.3,Radisson Blu Plaza Hotel,Banjara Hills,Central East Hyderabad
+177,Harry's - The Pub, Finger Food,1500,3.4,Aditya Park Hotel,Ameerpet,Central East Hyderabad
+178,Touch of Class," North Indian, Chinese, Continental, South Indian",2000,3.9,The Central Court Hotel,Lakdi-Ka-Pul,Central Hyderabad
+179,Paya House, Hyderabadi,600,5,Banjara Hills,,Central East Hyderabad
+180,Subway, Fast Food,500,2.8,GVK One Mall,Banjara Hills,Central East Hyderabad
+181,Hyderabad Spice," North Indian, Biryani, Chinese",1000,5,Sri Lakshmi Complex,Masab Tank,Central East Hyderabad
+182,Pizza Zone," Fast Food, Pizza, Italian",600,2.9,Begumpet,,Secunderabad
+183,Barista," Fast Food, Beverages, Desserts",900,2,Khairatabad,,Central Hyderabad
+184,Waterside Cafe," Continental, North Indian",1500,4.1,Taj Banjara Hotel,Banjara Hills,Central East Hyderabad
+185,Level Lounge, Finger Food,1500,3.7,The Central Court Hotel,Lakdi-Ka-Pul,Central Hyderabad
+186,Zanzi Bar, Finger Food,1600,4.4,The Golkonda Hotel,Masab Tank,Central East Hyderabad
+187,Ocean's Basket," Continental, Chinese, North Indian, South Indian",1200,4.4,Banjara Hills,,Central East Hyderabad
+188,Eagles bar and Restaurant - Level 1," North Indian, South Indian, Fast Food",1000,3.5,Shree Venkateshwara Hotel,Lakdi-Ka-Pul,Central Hyderabad
+189,Rayalaseema Ruchulu," Andhra, South Indian, North Indian",1200,4,Lakdi-Ka-Pul,,Central Hyderabad
+190,Kebab E Bahar," Hyderabadi, North Indian",2000,3.9,Taj Banjara Hotel,Banjara Hills,Central East Hyderabad
+191,Barbeque Nation," North Indian, Chinese",2000,4.3,MG Road,,Secunderabad
+192,Promenade," Andhra, Continental, Chinese, North Indian",1200,3.3,Aditya Park Hotel,Ameerpet,Central East Hyderabad
+193,Bistro @ Karachi Bakery," Italian, Fast Food",500,3.6,Khanchand Towers,Banjara Hills,Central East Hyderabad
+194,Mid Land Bakers & Confectioners, Fast Food,400,3,Ameerpet,,Central East Hyderabad
+195,Captain Cook," North Indian, Chinese",700,3.8,SR Nagar,,Central East Hyderabad
+196,Chill & Terrace," North Indian, Continental, South Indian",2400,3.9,Radisson Blu Plaza Hotel,Banjara Hills,Central East Hyderabad
+197,Makers Of Milkshakes," Beverages, Desserts",400,4.6, Sri Nagar Colony,,Central East Hyderabad
+198,Lobby Lounge," North Indian, Continental",3000,3.9,Taj Banjara Hotel,Banjara Hills,Central East Hyderabad
+199,Southern Mirchi," Chinese, South Indian, North Indian",1000,4.2,Banjara Hills,,Central East Hyderabad
+200,Mujtaba Grills," North Indian, Chinese, Mughlai",700,2.6,Begumpet,,Secunderabad
+201,Masala Republic," Continental, Chinese, North Indian, Health Food",1000,4,Himayath Nagar,,Central Hyderabad
+202,Lazeez Khaana," North Indian, Chinese",900,4.5,Kukatpally,,West Hyderabad
+203,Agrawala Sweets," Street Food, Desserts",200,3.2,SP Road,,Secunderabad
+204,24/7 Gallery Cafe," North Indian, Asian, Continental",2000,2.7,Hyatt Place,Banjara Hills,Central East Hyderabad
+205,ABs - Absolute Barbecues," North Indian, Continental",1600,4.1,SD Road,,Secunderabad
+206,Four Square," North Indian, Continental, South Indian",1200,3.5,Best Western Ashoka,Lakdi-Ka-Pul,Central Hyderabad
+207,Dine Hill," North Indian, Chinese, Biryani",900,4,Masab Tank,,Central East Hyderabad
+208,Moonlight Bar," North Indian, South Indian",1100,3.4,Best Western Ashoka,Lakdi-Ka-Pul,Central Hyderabad
+209,The Neighbourhood Bar & Kitchen," North Indian, Continental, Asian",1000,3.7,Himayath Nagar,,Central Hyderabad
+210,Express By AB's," North Indian, Biryani",600,4.5,SD Road,,Secunderabad
+211,Biryanis And More," Biryani, Chinese, Seafood",950,4.1,Ameerpet,,Central East Hyderabad
+212,Melange," Chinese, Continental, North Indian, South Indian",1700,4,The Golkonda Hotel,Masab Tank,Central East Hyderabad
+213,Country Oven," Desserts, Beverages",800,4.4, Sri Nagar Colony,,Central East Hyderabad
+214,Cream Stone," Desserts, Beverages",400,4.3,The Platinum Hotel,Himayath Nagar,Central Hyderabad
+215,Dadu's Mithai Vatika," Fast Food, Street Food, Beverages",500,3.7,Diamond House,Himayath Nagar,Central Hyderabad
+216,A Bleu Basil," Chinese, North Indian, Fast Food, Street Food",1000,4.2,Far East Plaza,Himayath Nagar,Central Hyderabad
+217,Havmor, Desserts,300,4,Himayath Nagar,,Central Hyderabad
+218,Tasty Bowl," North Indian, South Indian",400,4.3,Banjara Hills,,Central East Hyderabad
+219,Hari Dosa," South Indian, Street Food, Fast Food",300,2.8,Ameerpet,,Central East Hyderabad
+220,Clove - The Platinum Hotel," Chinese, North Indian, Continental, Italian",800,4.1,The Platinum Hotel,Himayath Nagar,Central Hyderabad
+221,The Budapest Bakehouse," Desserts, Fast Food",400,4.3,Himayath Nagar,,Central Hyderabad
+222,Spice 6 - The Arab Villagio," North Indian, Chinese, Lebanese, Arabian",1200,4.2,Banjara Hills,,Central East Hyderabad
+223,WOFL," Desserts, Italian, Fast Food",600,4,Banjara Hills,,Central East Hyderabad
+224,Harley's Fine Baking," Desserts, Beverages, Fast Food",400,5,Ameerpet,,Central East Hyderabad
+225,Lazeez Khaana," North Indian, Chinese",900,4.1,Himayath Nagar,,Central Hyderabad
+226,Salt & Pepper," North Indian, Chinese, Continental, Awadhi",900,2.9,The Central Court Hotel,Lakdi-Ka-Pul,Central Hyderabad
+227,TOS - Tales Over Spirits," Finger Food, North Indian, Chinese",2100,3.9,Banjara Hills,,Central East Hyderabad
+228,Waffle House," Fast Food, Desserts, Beverages",600,3.9,Banjara Hills,,Central East Hyderabad
+229,Garage Moto Cafe," Italian, Continental",600,5,Banjara Hills,,Central East Hyderabad
+230,Superly The Cosmo Cafe," Fast Food, Beverages",400,4.4,Himayath Nagar,,Central Hyderabad
+231,Mirosa Cafe And Kitchen," Italian, Continental, Beverages",2000,4.8,Himayath Nagar,,Central Hyderabad
+232,Reshmi's Classic Restaurant," North Indian, Chinese",800,4,SD Road,,Secunderabad
+233,Asian Treat," Asian, Korean",800,4.9,Banjara Hills,,Central East Hyderabad
+234,Cakes N Hugs," Desserts, Fast Food, Pizza",300,4,Yousufguda,,Central East Hyderabad
+235,Cafè - The Multicuisine Restaurant," North Indian, Chinese, Fast Food",1100,3.4,Hotel Incredible One,Kalasiguda,Secunderabad
+236,7 Sisters," Chinese, Asian, Sushi, Japanese",500,4.7,Banjara Hills,,Central East Hyderabad
+237,Kebab Chini," North Indian, Chinese, Biryani",600,3.9,Banjara Hills,,Central East Hyderabad
+238,New Ann's Chinese Kitchen, Chinese,500,3,SD Road,,Secunderabad
+239,Bikanervala," North Indian, Street Food, Fast Food, Desserts, South Indian, Beverages",1300,4.2,Basheerbagh,,Central Hyderabad
+240,Bleu basil," North Indian, Chinese",1200,4.3,Lumbini Jewel Mall,Banjara Hills,Central East Hyderabad
+241,Ohri's Cake Nation, North Indian,1100,5,Ohri's Banjara,Banjara Hills,Central East Hyderabad
+242,Frozen Bottle, Desserts,400,4.3,Himayath Nagar,,Central Hyderabad
+243,Shri Santosh Family Dhaba," North Indian, Chinese",600,2.3,Banjara Hills,,Central East Hyderabad
+244,Zythum Brewing Co," Continental, Chinese, Italian, Asian, Fast Food",2500,3.5,Jubilee Hills,,Central West Hyderabad
+245,House of Milkshakes, Beverages,300,3,Ameerpet,,Central East Hyderabad
+246,Saleem Javed Rule The Rolls, North Indian,800,5,Park Continental Hotel,Masab Tank,Central East Hyderabad
+247,Icekraft, Desserts,300,3.3,Banjara Hills,,Central East Hyderabad
+248,Biryani Bowl," Biryani, North Indian, Chinese",800,2.9,Lakdi-Ka-Pul,,Central Hyderabad
+249,Skypark Cafe," Continental, Chinese",800,3.8,Owner's Pride,Banjara Hills,Central East Hyderabad
+250,Dumont Creamery, Desserts,400,5,Himayath Nagar,,Central Hyderabad
+251,China Express, Chinese,400,2,Terminal Drive In,Sindhi Colony,Secunderabad
+252,Flavours Of TMH," North Indian, Chinese, Continental, South Indian",800,4.2,Taj Tristar Hotel,SD Road,Secunderabad
+253,Bambai Tapri," Fast Food, Beverages",400,3.8,GRL Plaza,Begumpet,Secunderabad
+254,Rayala Vari Ruchulu," North Indian, Chinese, South Indian, Seafood, Biryani",700,3.5,Ameerpet,,Central East Hyderabad
+255,Ohri's Uppu," South Indian, Andhra, Beverages, Desserts",1400,3.9,Ohri's Banjara,Banjara Hills,Central East Hyderabad
+256,Fishland Express," North Indian, Chinese, Andhra",800,4.5,Banjara Hills,,Central East Hyderabad
+257,Flechazo," Mediterranean, Continental, Chinese, North Indian, Mangalorean",1400,3.6,Banjara Hills,,Central East Hyderabad
+258,Ohri's Eatmor," Fast Food, Desserts",1100,3.9,Ohri's Banjara,Banjara Hills,Central East Hyderabad
+259,Ghrelin Cafe and Patisserie," Desserts, Italian, Continental, Beverages",600,4.4,Himayath Nagar,,Central Hyderabad
+260,Dakshina Mandapa," North Indian, Chinese, South Indian",1000,3.8,Taj Tristar Hotel,SD Road,Secunderabad
+261,The Bhimavaram Boys, Fast Food,300,4,Himayath Nagar,,Central Hyderabad
+262,Almond House, Desserts,500,4.5,Lingapur Building,Himayath Nagar,Central Hyderabad
+263,Hotel Sitara Grand," North Indian, Chinese, Andhra",1200,4.3,Hotel Sitara Grand,Banjara Hills,Central East Hyderabad
+264,Eagles Pizza," Pizza, Fast Food",600,3.8,Himayath Nagar,,Central Hyderabad
+265,The Rocket Fuel - Rooftop Kitchen," Continental, Asian, Beverages",1000,5,Banjara Hills,,Central East Hyderabad
+266,Apsara Ice Creams, Desserts,300,4.2,Himayath Nagar,,Central Hyderabad
+267,Ohri's Serengeti," North Indian, Awadhi",1100,4.1,Ohri's Banjara,Banjara Hills,Central East Hyderabad
+268,The Garage Cafe," North Indian, Chinese, South Indian, Fast Food, Beverages",900,3.3, Sri Nagar Colony,,Central East Hyderabad
+269,Kholani's," North Indian, Chinese, Mughlai",1200,3.6,Banjara Hills,,Central East Hyderabad
+270,Biryani By Kilo," Biryani, Mughlai",800,3.7,Banjara Hills,,Central East Hyderabad
+271,Tre-Forni, Italian,3000,4.4,Park Hyatt Hotel,Banjara Hills,Central East Hyderabad
+272,Chef Inam's Steak House," American, Seafood, Mughlai",1800,4.2,Fortune Enclave,Banjara Hills,Central East Hyderabad
+273,Huber & Holly Himayatnagar," Fast Food, Desserts",1000,4.4,Himayath Nagar,,Central Hyderabad
+274,Barbeque Spice," North Indian, South Indian, Desserts",2000,4.1,Abids,,Central Hyderabad
+275,Universal Restaurant & Bakery Store," Fast Food, Pizza",500,2.4,MG Road,,Secunderabad
+276,The Waffle Co., Desserts,400,3.9,Himayath Nagar,,Central Hyderabad
+277,Fiesta," North Indian, Andhra",600,3.3,Hotel Minerva Grand,SD Road,Secunderabad
+278,Aamantran," North Indian, Chinese, Continental, Fast Food, Beverages, Desserts",800,4.6,RTC X Road,,Central Hyderabad
+279,The Dining Room," North Indian, Continental",3000,4.2,Park Hyatt Hotel,Banjara Hills,Central East Hyderabad
+280,Ohri's Mings Court," Chinese, Asian, Sushi",1000,5,Hotel Baseraa,SD Road,Secunderabad
+281,Rajthali," Rajasthani, Gujarati",1000,3.8,Hyder Guda,,Central Hyderabad
+282,Iqbatan," Arabian, Continental, Beverages",800,2.3,Banjara Hills,,Central East Hyderabad
+283,Palace Heights," North Indian, Chinese, Mughlai",1800,4.4,Abids,,Central Hyderabad
+284,Ohri's Ming's Court," Chinese, Japanese, Sushi, Asian",1800,3.8,Ohri's Banjara,Banjara Hills,Central East Hyderabad
+285,Goosebumps - Bar & Grill," Continental, North Indian, Asian",1900,4.4,Hitech City,,West Hyderabad
+286,Babylon Bar & Kitchen," Continental, North Indian, Turkish, Beverages",3500,3.2,Jubilee Hills,,Central West Hyderabad
+287,Black Pearl Multi Cuisine Restaurant," North Indian, Chinese, Mughlai",800,3.6,Basheerbagh,,Central Hyderabad
+288,Wow! China by Wow! Momo," Chinese, Asian, Fast Food",700,3.2,Banjara Hills,,Central East Hyderabad
+289,The ThickShake Factory, Beverages,400,3.9,Aaltos A & M Trade Center,Himayath Nagar,Central Hyderabad
+290,Indulge Ice Cream, Desserts,300,5,Banjara Hills,,Central East Hyderabad
+291,Cheesiaano Pizza," Pizza, Fast Food",600,4.3,Himayath Nagar,,Central Hyderabad
+292,Atithi Restaurant," North Indian, Chinese, Fast Food",400,4,SD Road,,Secunderabad
+293,Southern Flavours," Chinese, North Indian, South Indian",1100,3.9,OM sri sai towers,Himayath Nagar,Central Hyderabad
+294,Petoo," Fast Food, Street Food, Biryani",600,1,Ameerpet,,Central East Hyderabad
+295,Parampara - Flavours of India," North Indian, Italian, Continental",1600,3.7,Abids,,Central Hyderabad
+296,The Living Room," Desserts, Finger Food",1200,4.4,Park Hyatt Hotel,Banjara Hills,Central East Hyderabad
+297,Rika, Japanese,3000,4.2,Park Hyatt Hotel,Banjara Hills,Central East Hyderabad
+298,The Board Game Cafe," Fast Food, Chinese, Continental, Beverages",900,3.9,Himayath Nagar,,Central Hyderabad
+299,Kebabs & More," North Indian, Mughlai",800,4,Banjara Hills,,Central East Hyderabad
+300,Zytun," North Indian, Mughlai, Chinese, Continental, Beverages",1200,4.2,Hotel Metropolis,SD Road,Secunderabad
+301,Kasturi Restaurant," North Indian, Chinese, South Indian",700,4.2,Shivaji Nagar,,Secunderabad
+302,Grand Restaurant," North Indian, South Indian, Chinese",800,3,Nampally,,Central Hyderabad
+303,American Bakers, Fast Food,400,3.4,Basheerbagh,,Central Hyderabad
+304,Sizzling Joe, Fast Food,500,1.3,Terminal Drive In,Sindhi Colony,Secunderabad
+305,Cream Shakes, Beverages,300,2.3,SR Nagar,,Central East Hyderabad
+306,Scotchman," North Indian, Chinese, Continental, South Indian",2200,4.1,Royalton Hotel,Abids,Central Hyderabad
+307,Luft Bar and Kitchen," Italian, Continental",2000,5,Jubilee Hills,,Central West Hyderabad
+308,Abids Bistro," North Indian, Chinese, Continental, South Indian",600,3.9,Royalton Hotel,Abids,Central Hyderabad
+309,Indian Foodies Hub," North Indian, Chinese, Continental, South Indian",1200,3.8,Kimtee Square,Banjara Hills,Central East Hyderabad
+310,Blue Fox," North Indian, Continental, Chinese, Desserts",1600,4.3,RK Cineplex,Banjara Hills,Central East Hyderabad
+311,Lazeez Multicuisine Restaurant," Chinese, North Indian, Continental",1600,4.1,Royal Reve Hotel,SD Road,Secunderabad
+312,Straws The Cafe," American, Italian, Japanese, Korean, Indonesian, Vietnamese",700,4.2,Romana Plaza,Himayath Nagar,Central Hyderabad
+313,Dadu's Mithai Vatika," Fast Food, Street Food, Beverages",500,2.8,Owner's Pride,Banjara Hills,Central East Hyderabad
+314,Jackie's Patisserie & Cafe, Chinese,600,4.6,SD Road,,Secunderabad
+315,Almond House, Desserts,500,4.4,Banjara Hills,,Central East Hyderabad
+316,Oye Rock N Roll, Fast Food,400,5,Abids,,Central Hyderabad
+317,Zouq," Turkish, Lebanese",1000,4.1,Banjara Hills,,Central East Hyderabad
+318,Spice Garden," North Indian, Chinese, South Indian",1400,4.1,Royal Reve Hotel,SD Road,Secunderabad
+319,Apna Rasoi," North Indian, Chinese",700,3.8,SD Road,,Secunderabad
+320,Vintage Restaurant And Bar," Chinese, North Indian",1000,4,Nallakunta,,Central Hyderabad
+321,Wow! China by Wow! Momo," Chinese, Asian, Fast Food",700,1,GVK One Mall,Banjara Hills,Central East Hyderabad
+322,Shree Santosh Family Dhaba," North Indian, Chinese",600,3.5,Paras Chambers,Himayath Nagar,Central Hyderabad
+323,Crispy Crust," Fast Food, Desserts",500,,Khairatabad,,Central Hyderabad
+324,Desi Cheeni, Fast Food,400,,Khairatabad,,Central Hyderabad
+325,Air Live," Continental, North Indian, Asian, Pizza",1800,4,Odyssey Mall,Jubilee Hills,Central West Hyderabad
+326,The Pet Cafe, Fast Food,500,3,Banjara Hills,,Central East Hyderabad
+327,Wok of Flame," Fast Food, Chinese",500,,Necklace Road,,Secunderabad
+328,Ohri's Mehfill," North Indian, Chinese",1100,3.8,Hotel Baseraa,SD Road,Secunderabad
+329,Dumont Creamery, Desserts,400,,Somajiguda,,Central East Hyderabad
+330,Stallion," Chinese, Mughlai, North Indian",2000,4,Royal Reve Hotel,SD Road,Secunderabad
+331,House Of Dosas, South Indian,300,3.8,Banjara Hills,,Central East Hyderabad
+332,Haiku," Asian, Thai, Japanese, Indonesian",1700,4.3,Banjara Hills,,Central East Hyderabad
+333,Bench Cafe & Restaurant," Chinese, Italian",500,4.3,Abids,,Central Hyderabad
+334,Ohri's Cake Nation, Desserts,600,3.8,SD Road,,Secunderabad
+335,Pizza Hut," Pizza, Fast Food",800,4.5,Chikkadpally,,East Hyderabad
+336,Almond House, Desserts,500,4.6,SD Road,,Secunderabad
+337,Dad Of Shawarmas," Chinese, Lebanese, North Indian",500,4,Shivaji Nagar,,Secunderabad
+338,Oye Pizza," Fast Food, Pizza, Beverages",600,4.2,Abids,,Central Hyderabad
+339,Amantran, Bengali,300,,Somajiguda,,Central East Hyderabad
+340,Naivedyam Family Dhaba," North Indian, Chinese",400,3.8,Padma Rao Nagar,,East Hyderabad
+341,Milk Shake Factory, Beverages,300,5,Mairaj Complex,Mehdipatnam,Central Hyderabad
+342,Gappe Vappe," Street Food, Beverages",500,4.3,SD Road,,Secunderabad
+343,Ohri's Eatmor," North Indian, Fast Food, Desserts, Beverages",1100,3.6,Hotel Baseraa,SD Road,Secunderabad
+344,Riot Club," North Indian, Chinese, Beverages",2500,3.8,Guv Vivilash Chamber,Banjara Hills,Central East Hyderabad
+345,Annapurna Bar and Restaurant," Chinese, North Indian",800,5,Nallakunta,,Central Hyderabad
+346,Vivaha Bhojanambu," South Indian, Andhra",1000,4,Shivaji Nagar,,Secunderabad
+347,Nandhini Restaurant & Bar," North Indian, Chinese, Biryani",1000,2,SR Nagar,,Central East Hyderabad
+348,Fritters, Fast Food,300,4.3,Abids,,Central Hyderabad
+349,Milkshakes & Lassi & Ice creams," Desserts, Beverages",200,2.8,SR Nagar,,Central East Hyderabad
+350,Holy Kitchen," Chinese, North Indian",500,4.1,Yousufguda,,Central East Hyderabad
+351,RoosterX," Lebanese, Fast Food",400,4,Chikkadpally,,East Hyderabad
+352,Pakwaan," North Indian, Chinese, Beverages",400,3,Bowenpally,,Secunderabad
+353,La Pinoz Pizza," Pizza, Fast Food",500,2,Banjara Hills,,Central East Hyderabad
+354,Coco's Bar & Grill," Chinese, North Indian, Continental, Italian",1800,4.1,Banjara Hills,,Central East Hyderabad
+355,The Matter Of Batter," Desserts, Fast Food, Italian",800,1,Delta Seacon Building,Banjara Hills,Central East Hyderabad
+356,Bakers County, Fast Food,300,4.4,Narayanaguda,,Central Hyderabad
+357,AL Jazirah, Arabian,600,3.2,Nampally,,Central Hyderabad
+358,CGI - Coffee Gaming Inc," Italian, Chinese, Beverages, Fast Food",800,,Necklace Road,,Secunderabad
+359,"Feu- Dessert, Bar & Kitchen"," Continental, Italian, Desserts",1500,4.3,Jubilee Hills,,Central West Hyderabad
+360,Medley," North Indian, Continental, Desserts, Beverages",1700,4.1,Jubilee Hills,,Central West Hyderabad
+361,ART Coffee & Kitchen," Italian, Continental, North Indian, Fast Food",1200,5,Vanasthalipuram,,East Hyderabad
+362,Captain Cook," North Indian, Chinese, Desserts, Beverages",1100,2.5,Musheerabad,,East Hyderabad
+363,TOT," Finger Food, Continental",1700,3.9,Jubilee Hills,,Central West Hyderabad
+364,Makers Of Milkshakes," Beverages, Desserts",400,1.7,Masab Tank,,Central East Hyderabad
+365,Mysore Express," South Indian, Chinese",300,2.5,West Marredpalli,,Secunderabad
+366,Flaming Wok, Chinese,600,4.3,Karkhana,,Secunderabad
+367,Vivaha Bhojanambu," South Indian, Andhra, Desserts",1000,4,Jubilee Hills,,Central West Hyderabad
+368,Naatu Kitchen and Bar," Andhra, Chinese",1200,4.1,Jubilee Hills,,Central West Hyderabad
+369,Cream Stone," Desserts, Beverages",400,4.5,Banjara Hills,,Central East Hyderabad
+370,The Weekend Cafe," Continental, Fast Food, Beverages",800,4.7,Karkhana,,Secunderabad
+371,Wow! China by Wow! Momo," Chinese, Asian, Fast Food, Beverages",700,5,Karkhana,,Secunderabad
+372,Wow! Momo," Tibetan, Chinese, Asian",500,5,Karkhana,,Secunderabad
+373,Bharpur Multicuisine Restaurant," North Indian, Mughlai, Chinese, Beverages",900,,Panjagutta,,Central East Hyderabad
+374,Slice'd-The Gourmet Pizzeria," Pizza, Beverages",1100,4.4,Park View Estate,Banjara Hills,Central East Hyderabad
+375,Auberry The Bake Shop," Desserts, Beverages, Fast Food",400,,L and T Mall,Panjagutta,Central East Hyderabad
+376,Pizza Xpress," Pizza, Fast Food",500,3.8,Padma Rao Nagar,,East Hyderabad
+377,Mini Punjab," North Indian, Chinese",500,3.4,Abids,,Central Hyderabad
+378,Huber & Holly," Fast Food, Desserts",1000,4.3,Park View Estate,Banjara Hills,Central East Hyderabad
+379,Chandra Haveli Star Restaurant," North Indian, South Indian, Chinese, Biryani",800,4.1,Jubilee Hills,,Central West Hyderabad
+380,Masala Republic," North Indian, Maharashtrian, Street Food",700,3.4,Divine Banjara,Banjara Hills,Central East Hyderabad
+381,Gandikota Restaurant," Andhra, North Indian, Chinese, South Indian",800,4.3,Banjara Hills,,Central East Hyderabad
+382,Betsubara: Cafe & Patisserie," Italian, Fast Food, Beverages",1000,4.5,Jubilee Hills,,Central West Hyderabad
+383,Temptations," Desserts, Fast Food, Beverages",600,5,East Marredpalli,,Secunderabad
+384,Antera Kitchen and Bar," South Indian, Chinese",1000,4.7,Gachibowli,,West Hyderabad
+385,Zero40 Brewing," American, North Indian, Pizza",2700,4.2,Zero40,Jubilee Hills,Central West Hyderabad
+386,Cafe Noir," Continental, French, Italian, Fast Food",1500,,Country Club Complex,Begumpet,Secunderabad
+387,Plan B," Continental, Chinese, Mexican, American, Desserts",1500,,Country Club Complex,Begumpet,Secunderabad
+388,Burger Division," Burger, Fast Food",600,,Khairatabad,,Central Hyderabad
+389,Chef Xpress," Chinese, North Indian",700,4.3,Karkhana,,Secunderabad
+390,Tadipatri Biryani, Andhra,800,5,Jubilee Hills,,Central West Hyderabad
+391,Little Italy," Italian, Pizza, Beverages, Mexican",1500,4.3,Aryan's Building,Jubilee Hills,Central West Hyderabad
+392,Eagles Pizza," Pizza, Fast Food",600,3.9,Banjara Hills,,Central East Hyderabad
+393,United Kitchens of India," Chettinad, North Indian, Bengali, Chinese",1200,4.2,The Purple Leaf Hotel,Karkhana,Secunderabad
+394,Cocotang, Beverages,300,2,Himayath Nagar,,Central Hyderabad
+395,Vikendi Gelato Kitchen," Italian, Continental, Beverages",1500,4.5,Jubilee Hills,,Central West Hyderabad
+396,1D Cafe," Fast Food, Beverages",600,3.3,Padma Rao Nagar,,East Hyderabad
+397,Telangana Spice Kitchen," North Indian, South Indian, Chinese, Mughlai",2000,4.2,Jubilee Hills,,Central West Hyderabad
+398,Sri Balaji Prithviraj Family Dhaba," North Indian, Chinese",800,4,Narayanaguda,,Central Hyderabad
+399,Auberry The Bake Shop," Desserts, Beverages, Fast Food",400,,Next Galleria Mall,Panjagutta,Central East Hyderabad
+400,KGN Fast Food, South Indian,200,,Begumpet,,Secunderabad
+401,Nue Cafe," Continental, Health Food, Beverages, Desserts",1300,5,Jubilee Hills,,Central West Hyderabad
+402,Chic n Cone, Fast Food,400,,Next Galleria Mall,Panjagutta,Central East Hyderabad
+403,Cookie Man," Desserts, Beverages",300,,Next Galleria Mall,Panjagutta,Central East Hyderabad
+404,Kafenio Lounge," Fast Food, Street Food, Italian",800,,Panjagutta,,Central East Hyderabad
+405,Chiraanfort Club," North Indian, Chinese, Biryani, Desserts, Beverages",1500,,Begumpet,,Secunderabad
+406,Gabru Di Chaap," Fast Food, North Indian",500,,Next Galleria Mall,Panjagutta,Central East Hyderabad
+407,Wisphot, Fast Food,500,,Panjagutta,,Central East Hyderabad
+408,Aamantran Pure Veg," Chinese, Continental, North Indian",1200,3.6,Banjara Hills,,Central East Hyderabad
+409,Biggies Burger," Burger, Fast Food",500,,Ameerpet,,Central East Hyderabad
+410,Shree Santosh Family Dhaba," North Indian, Chinese",600,3.3,Abids,,Central Hyderabad
+411,Subway, Fast Food,500,,Ameerpet,,Central East Hyderabad
+412,Gelatissimo, Desserts,400,4.4,Jubilee Hills,,Central West Hyderabad
+413,Temptations," Desserts, Fast Food, Beverages",600,3.8,Karkhana,,Secunderabad
+414,Stone Waters," North Indian, Continental, Asian, Pizza",2100,4.1,Aruna Arcade,Jubilee Hills,Central West Hyderabad
+415,Soul Of South," South Indian, Andhra",1000,5,Film Nagar,,Central West Hyderabad
+416,Bistro Milano," Continental, Italian, North Indian, Chinese",1800,4.1,Jubilee Hills,,Central West Hyderabad
+417,Saffron Mantra," North Indian, Chinese, Continental",800,4.2,The Purple Leaf Hotel,Karkhana,Secunderabad
+418,Lassi Hub," Beverages, Desserts, Fast Food",300,4,Kachiguda,,Central Hyderabad
+419,Makers Of Milkshakes," Beverages, Desserts",400,4.5,Kachiguda,,Central Hyderabad
+420,Simply South," Andhra, South Indian, Hyderabadi, Kerala",900,4.1,Jubilee Hills,,Central West Hyderabad
+421,Hashi," Asian, Japanese",1800,4.4,Jubilee Hills,,Central West Hyderabad
+422,Waves," North Indian, Chinese, Biryani, Andhra, South Indian",1000,3.9,Anshu Complex,Jubilee Hills,Central West Hyderabad
+423,The Spicy Venue," Andhra, North Indian, Chinese, Biryani, Mughlai",1400,4,Jubilee Hills,,Central West Hyderabad
+424,Lassi Hub, Beverages,300,4.7,Koti,,Central Hyderabad
+425,Oh So Stoned," Desserts, Beverages",400,4,The Purple Leaf Hotel,Karkhana,Secunderabad
+426,Insomnia," Finger Food, Chinese, Italian, North Indian",2300,4,Jaya Chambers,Jubilee Hills,Central West Hyderabad
+427,Beluga," Continental, Italian",1400,3.9,Jubilee Hills,,Central West Hyderabad
+428,Roti Wala, North Indian,500,,Ameerpet,,Central East Hyderabad
+429,Ding Dong Restaurant, North Indian,250,,Ameerpet,,Central East Hyderabad
+430,Udupi Aahar Pure Veg," North Indian, South Indian, Desserts, Beverages",700,3.7,Kachiguda,,Central Hyderabad
+431,Pietza Pizza," Pizza, Italian",700,5,Yousuf Tekri Complex,Tolichowki,Central Hyderabad
+432,La Society," Italian, Continental, North Indian",1500,3.7,Jubilee Hills,,Central West Hyderabad
+433,Blue Block Club," Continental, North Indian, Chinese, Italian, American",2200,3.8,Jubilee Hills,,Central West Hyderabad
+434,Spoil Lounge," Chinese, Mughlai, North Indian",1800,3.8,Anshu Complex,Jubilee Hills,Central West Hyderabad
+435,Uber Deq," North Indian, Chinese",1800,3.8,Jubilee Hills,,Central West Hyderabad
+436,FB Cakes, Desserts,500,,Khairatabad,,Central Hyderabad
+437,Hotel Sitara Family Dining Multicuisine Restaurant," North Indian, Chinese, Andhra",800,,Ameerpet,,Central East Hyderabad
+438,36 Downtown," North Indian, Continental, Chinese",2500,4.2,Jubilee Hills,,Central West Hyderabad
+439,Churrolto," Italian, Pizza, Burger",1400,,Banjara Hills,,Central East Hyderabad
+440,Subway, Fast Food,500,2.4,Mairaj Complex,Mehdipatnam,Central Hyderabad
+441,MOB," Finger Food, Chinese, Continental, Italian",3000,4.2,Film Nagar,,Central West Hyderabad
+442,The Taste Of Italy," Pizza, Fast Food",500,,PG Road,,Secunderabad
+443,Qaffeine," Fast Food, Desserts, Beverages",600,,GVK One Mall,Banjara Hills,Central East Hyderabad
+444,Cookie Man," Desserts, Beverages",300,,Panjagutta,,Central East Hyderabad
+445,Chai Pani," Tea, Fast Food",300,5,Jubilee Hills,,Central West Hyderabad
+446,Millies Cookies, Desserts,300,,GVK One Mall,Banjara Hills,Central East Hyderabad
+447,Grill 9," Arabian, Biryani, Chinese, North Indian",800,3.5,Karkhana,,Secunderabad
+448,Fly- Feel the High," Chinese, Continental, North Indian",1400,4.1,Jubilee Hills,,Central West Hyderabad
+449,Flavours Of TMH," North Indian, South Indian, Chinese, Continental",1200,4.3,Taj Mahal Hotel,Jubilee Hills,Central West Hyderabad
+450,Molto Cafe & Resto," North Indian, Italian, Chinese, Beverages",700,,Begumpet,,Secunderabad
+451,Exotica-Coffee shop," Continental, North Indian, Seafood, South Indian",1000,,The Manohar Hotel,Begumpet,Secunderabad
+452,Chicken Shawarma Hub," Lebanese, Fast Food",400,4.4,Jubilee Hills,,Central West Hyderabad
+453,Fat Tiger," Fast Food, Beverages",400,,GVK One Mall,Banjara Hills,Central East Hyderabad
+454,Tandoori Palace," North Indian, Chinese",1100,,Ameerpet,,Central East Hyderabad
+455,Sofrehh Persian Bistro," Iranian, Italian, Health Food, Continental, Beverages",600,4,Jubilee Hills,,Central West Hyderabad
+456,The Grind Cafe," Fast Food, Chinese",900,,Banjara Hills,,Central East Hyderabad
+457,Aura Infusion Bar," Continental, North Indian, Chinese, Italian",1600,4.4,Jubilee Hills,,Central West Hyderabad
+458,Waffle Studio," Desserts, Beverages",600,,Ameerpet,,Central East Hyderabad
+459,Theory Cafe & Dessert Bar," Continental, Fast Food, Desserts",1200,4.1,Jubilee Hills,,Central West Hyderabad
+460,Chai Shai Bar, Fast Food,400,,Sindhi Colony,,Secunderabad
+461,Conical Gaufres, Desserts,300,,Sindhi Colony,,Secunderabad
+462,Arabian Nights Mandi," Arabian, Desserts",900,,Ameerpet,,Central East Hyderabad
+463,Chubby Cho," Chinese, Japanese, Thai",2500,4.4,Jubilee Hills,,Central West Hyderabad
+464,Chicken Shawarma Hub," Lebanese, Fast Food",400,,Banjara Hills,,Central East Hyderabad
+465,Waffles & More," Desserts, Fast Food",300,,Sindhi Colony,,Secunderabad
+466,Zomoz - The Momo Company, Tibetan,300,,AAA Mall,Ameerpet,Central East Hyderabad
+467,Muddapappu Avakai.Com," South Indian, Andhra",600,,Ameerpet,,Central East Hyderabad
+468,Habibo, North Indian,1200,,Ameerpet,,Central East Hyderabad
+469,Hyderabad House, Biryani,900,,Begumpet,,Secunderabad
+470,Gharana - The Vintage Dining," North Indian, Chinese",1200,,Begumpet,,Secunderabad
+471,Monginis," Fast Food, Desserts",300,,Sindhi Colony,,Secunderabad
+472,Anmol Pride Restaurant, North Indian,700,,Khairatabad,,Central Hyderabad
+473,Puzzle- Happening Lounge," North Indian, Continental, Pizza",1000,5,Rainbow Mall,Karkhana,Secunderabad
+474,Imli Sarai," Italian, Continental",1500,,Banjara Hills,,Central East Hyderabad
+475,Kabul Darbar," Arabian, Mughlai, North Indian",1200,4.2,Yousuf Tekri Complex,Tolichowki,Central Hyderabad
+476,Antera Kitchen and Bar," Andhra, Chinese, South Indian",1600,4.1,Jubilee Hills,,Central West Hyderabad
+477,Oh Baby Cafe," Fast Food, Beverages",500,,PG Road,,Secunderabad
+478,China Bistro," Chinese, Japanese, Sushi, Thai",1800,4.2,Niharika Jubilee One,Jubilee Hills,Central West Hyderabad
+479,Cake 24X7, Desserts,600,,Ameerpet,,Central East Hyderabad
+480,FB Cakes, Desserts,500,,Ameerpet,,Central East Hyderabad
+481,The Halal Republic," Fast Food, Lebanese",700,2.3,Car Khana Drive In,Banjara Hills,Central East Hyderabad
+482,7 Arts Biryani," Chinese, Biryani, Andhra, North Indian",800,5,Jubilee Hills,,Central West Hyderabad
+483,United Kitchens of India," Chettinad, North Indian, Bengali, Chinese",1200,4.2,Jubilee Hills,,Central West Hyderabad
+484,Erra Karam South Indian Restobar," South Indian, Chettinad",1500,4.4,Jubilee Hills,,Central West Hyderabad
+485,The Funnel Hill Creamery," Desserts, Fast Food",1000,4.2,Jubilee Hills,,Central West Hyderabad
+486,Wow! Chicken, Fast Food,500,,SP Road,,Secunderabad
+487,The French Caffe, Fast Food,300,,Ameerpet,,Central East Hyderabad
+488,Van Lavino," Continental, Fast Food, Beverages",1200,4.5,Jubilee Hills,,Central West Hyderabad
+489,Cozy Corner," North Indian, Fast Food, Chinese, Beverages",1100,,Tank Bund,,Central Hyderabad
+490,Mujtaba Grills," Chinese, North Indian, Mughlai, Arabian",800,2.2,Karkhana,,Secunderabad
+491,The Friger Co.," Fast Food, Burger, Beverages",600,,Begumpet,,Secunderabad
+492,Tiger Lily Bistro," Continental, Desserts, Beverages",1800,4.1,Jubilee Hills,,Central West Hyderabad
+493,Tipsy Topsy Bakers," Fast Food, Desserts",500,,Panjagutta,,Central East Hyderabad
+494,Tipsy Topsy Bakers," Fast Food, Chinese, Desserts",500,,Ameerpet,,Central East Hyderabad
+495,Temptations," Desserts, Fast Food, Beverages",600,4,Yousuf Tekri Complex,Tolichowki,Central Hyderabad
+496,Amigos Club - Bar & Kitchen," North Indian, Continental, Chinese",2000,3,Karkhana,,Secunderabad
+497,Alanati Restaurant," North Indian, Chinese",1800,5,Jubilee Hills,,Central West Hyderabad
+498,Giani's," Desserts, Beverages",400,,PG Road,,Secunderabad
+499,Shree Ganesh Darshini, South Indian,300,3,Kachiguda,,Central Hyderabad
+500,Pastel Pastisserie And Bistro," Italian, American",900,,Banjara Hills,,Central East Hyderabad
+501,The Fame Kitchen," North Indian, South Indian",700,5,Cuba Food Havana,Film Nagar,Central West Hyderabad
+502,Churrolto," Italian, Pizza, Burger, Desserts",1000,4.7,Film Nagar,,Central West Hyderabad
+503,Naomi Patisserie and Bakehouse," Italian, French",1500,4,Jubilee Hills,,Central West Hyderabad
+504,Ravi dhaba," North Indian, Chinese",500,4.8,Begum Bazaar,,South Hyderabad
+505,Isha Life Mahamudra," South Indian, Health Food",1000,4.4,Jubilee Hills,,Central West Hyderabad
+506,Ek Pyali Chai," Fast Food, Beverages",300,,Lakdi-Ka-Pul,,Central Hyderabad
+507,Moyaaah!," Continental, Fast Food, Beverages, Desserts",700,,Delta Seacon Building,Banjara Hills,Central East Hyderabad
+508,Wyld Dog," Continental, Fast Food",2000,5,Apurupa BDR,Jubilee Hills,Central West Hyderabad
+509,Captain Egg, Fast Food,1000,4.1,Jubilee Hills,,Central West Hyderabad
+510,The Nosh Bistro," Fast Food, Italian",800,,Sindhi Colony,,Secunderabad
+511,Urban Asia-Kitchen and Bar," Chinese, Thai, Tibetan, Asian",1500,4.1,Jahnavi Trade Center,Jubilee Hills,Central West Hyderabad
+512,Monginis," Fast Food, Desserts",300,,Amberpet,,East Hyderabad
+513,Jamie's Pizzeria By Jamie Oliver," Italian, Pizza",1000,4.5,Niharika Jubilee One,Jubilee Hills,Central West Hyderabad
+514,QUAD BAR & KITCHEN," North Indian, Chinese, Continental",2000,5,Film Nagar,,Central West Hyderabad
+515,ABC - Absolutely Broasted Chicken, Fast Food,400,4.2,Tolichowki,,Central Hyderabad
+516,Temptations," Desserts, Fast Food, Beverages",600,4.2,Begum Bazaar,,South Hyderabad
+517,Kritunga - The Palegar Cuisine," Andhra, North Indian, Chinese, Hyderabadi",800,5,Moosapet,,West Hyderabad
+518,Eagles Bar and Restaurant - Level 3," North Indian, South Indian",1000,,Shree Venkateshwara Hotel,Lakdi-Ka-Pul,Central Hyderabad
+519,Eat India Company," North Indian, Desserts",1100,4,Jahnavi Trade Center,Jubilee Hills,Central West Hyderabad
+520,Phulkaas," Chinese, Continental, North Indian",700,1,Kavadiguda,,Central Hyderabad
+521,M Cafe," Fast Food, Desserts, Beverages",400,,Ameerpet,,Central East Hyderabad
+522,Zafar's Fine Dine," Chinese, Arabian, North Indian",900,3.6,Yousuf Tekri Complex,Tolichowki,Central Hyderabad
+523,45th Avenue," Continental, Desserts",800,4.4,Niharika Jubilee One,Jubilee Hills,Central West Hyderabad
+524,1441 Pizzeria," Italian, Pizza",1200,2,Banjara Hills,,Central East Hyderabad
+525,President Dhaba Bar & Kitchen," North Indian, Chinese",2000,4.1,Shreshta Aura,Jubilee Hills,Central West Hyderabad
+526,Gappe Vappe," Street Food, Beverages",500,4.8,SL Jubliee,Jubilee Hills,Central West Hyderabad
+527,TiKi Shack - Rooftop Bar," Fast Food, Continental, Street Food, Pizza, Beverages",1800,3.9,Jahnavi Trade Center,Jubilee Hills,Central West Hyderabad
+528,4 Seasons," Chinese, North Indian, Mughlai",1200,3.5,Yousuf Tekri Complex,Tolichowki,Central Hyderabad
+529,Sri Andhra Pulav.com," South Indian, Andhra, Biryani",600,,Ameerpet,,Central East Hyderabad
+530,Fat Pigeon - Bar Hop," Finger Food, Continental, North Indian, Beverages",2600,4.3,Jubilee Hills,,Central West Hyderabad
+531,Subway, Fast Food,500,,Ameerpet,,Central East Hyderabad
+532,Eagles Bar and Restaurant - Level 4," North Indian, Chinese",1000,,Shree Venkateshwara Hotel,Lakdi-Ka-Pul,Central Hyderabad
+533,Chef Inam's Steak House," Turkish, Italian",1500,,Banjara Hills,,Central East Hyderabad
+534,Shree Venkateshwara Coffee Shop," South Indian, Chinese, Fast Food",500,,Lakdi-Ka-Pul,,Central Hyderabad
+535,Sweet Land Loops, Desserts,500,,Banjara Hills,,Central East Hyderabad
+536,UR Life Cafe," Continental, Health Food, Beverages",1500,3.9,Film Nagar,,Central West Hyderabad
+537,Taam Jhaam," Continental, North Indian, Chinese",1200,3.7,Aruna Arcade,Jubilee Hills,Central West Hyderabad
+538,Absorb - The Boutique Bar," Continental, North Indian, Asian, Fast Food",2600,4,Jubilee Hills,,Central West Hyderabad
+539,The Moonshine Project," North Indian, Chinese, Continental, Italian",2200,4.3,Jubilee Hills,,Central West Hyderabad
+540,N Grand," North Indian, Andhra, Chinese, Beverages",900,3.1,Karkhana,,Secunderabad
+541,SodaBottleOpenerWala," Iranian, Parsi, North Indian",2000,4.3,Niharika Jubilee One,Jubilee Hills,Central West Hyderabad
+542,Crispy Crust," Fast Food, Desserts",500,,Lakdi-Ka-Pul,,Central Hyderabad
+543,Terra Cafe and Bistro," Continental, North Indian, Thai, Beverages",1300,4.8,Jubilee Hills,,Central West Hyderabad
+544,Farzi Cafe," Modern Indian, North Indian",1800,4.5,Jubilee Hills,,Central West Hyderabad
+545,Sobremesa," Continental, Beverages",1500,3.7,Jubilee Hills,,Central West Hyderabad
+546,Ciro's Pizzeria," Pizza, Italian",800,,Banjara Hills,,Central East Hyderabad
+547,Tatva," North Indian, Chinese, Continental, Pizza, Desserts",1500,4.4,Jubilee Hills,,Central West Hyderabad
+548,Simply Paranthas, North Indian,200,,Banjara Hills,,Central East Hyderabad
+549,Rasna Buzz," Fast Food, Burger, Beverages, Asian",500,,Lakdi-Ka-Pul,,Central Hyderabad
+550,Almond House, Desserts,500,4.5,SL Jubliee,Jubilee Hills,Central West Hyderabad
+551,Sweet Land Loops," Desserts, Fast Food",500,,Aaltos A & M Trade Center,Himayath Nagar,Central Hyderabad
+552,The ThickShake Factory, Beverages,400,4,Film Nagar,,Central West Hyderabad
+553,The Hole in The Wall Cafe," American, Fast Food, Beverages",600,4.1,Jubilee Hills,,Central West Hyderabad
+554,The Ice Cream Bakery," Desserts, Beverages",600,,Jogani,,Secunderabad
+555,Heart Cup Coffee," Continental, North Indian, Asian, Beverages",2000,4.1,Jubilee Hills,,Central West Hyderabad
+556,Ulavacharu," Chinese, North Indian, Andhra",1100,3.8,Jubilee Hills,,Central West Hyderabad
+557,Surabhi Haveli," North Indian, Chinese",900,3.5,Mothinagar,,West Hyderabad
+558,Amnesia Lounge And Bar," Finger Food, American, Asian, Desserts, Beverages",2000,3.9,Jaya Chambers,Jubilee Hills,Central West Hyderabad
+559,Voila, Fusion,1300,4,Jaya Chambers,Jubilee Hills,Central West Hyderabad
+560,Fries & Cones, Fast Food,300,4,Amberpet,,East Hyderabad
+561,By The Bottle," North Indian, Continental, Fast Food",2100,3.9,Shreshta Aura,Jubilee Hills,Central West Hyderabad
+562,Ohri's Gufaa, Desserts,500,,Basheerbagh,,Central Hyderabad
+563,Moxa Kitchen," Chinese, North Indian, Continental",1200,3.9,Film Nagar,,Central West Hyderabad
+564,Fonce Chocolatier," Fast Food, Continental, Beverages, Desserts",1000,4.3,Jubilee Hills,,Central West Hyderabad
+565,Kritunga - The Palegar Cuisine," Andhra, North Indian, Chinese, Hyderabadi",800,,Lakdi-Ka-Pul,,Central Hyderabad
+566,Subway, Fast Food,500,3.5,Jubilee Hills,,Central West Hyderabad
+567,Flying Beans Café and Bistro," Burger, Pizza, Fast Food",800,4.8,Jubilee Hills,,Central West Hyderabad
+568,Santosh Dhaba," North Indian, Chinese",600,3.6,Begum Bazaar,,South Hyderabad
+569,U.S. Pizza," Pizza, Fast Food",600,3,Amberpet,,East Hyderabad
+570,Smoky Pitara," North Indian, Continental, Chinese",1000,3.8,Sreshta Aura,Jubilee Hills,Central West Hyderabad
+571,The Aahar," North Indian, Andhra, Biryani",800,4,Jubilee Hills,,Central West Hyderabad
+572,Kobe Sizzlers," Continental, Asian",1200,4.2,Film Nagar,,Central West Hyderabad
+573,Buffalo Wild Wings," Fast Food, Mexican, Italian, Chinese",2000,4.3,Axis Tower,Jubilee Hills,Central West Hyderabad
+574,Mairu Bistro," Continental, Asian, Beverages",1200,5,Jubilee Hills,,Central West Hyderabad
+575,Sandwich Eatery," Fast Food, Beverages",500,,SR Nagar,,Central East Hyderabad
+576,Loventila," North Indian, Chinese, Fast Food",700,,SR Nagar,,Central East Hyderabad
+577,Sapan Verma Live at Air Live, Fast Food,600,3.7,Jubilee Hills,,Central West Hyderabad
+578,Biryani Premier League," Biryani, North Indian",1000,,SR Nagar,,Central East Hyderabad
+579,Lucky's Arabian Mandi," North Indian, Chinese, Mughlai, Biryani",500,2.8,Padma Rao Nagar,,East Hyderabad
+580,Grill 9," Arabian, Biryani, Chinese, Lebanese",800,1.6,SD Road,,Secunderabad
+581,FB Cakes, Desserts,500,,Banjara Hills,,Central East Hyderabad
+582,Paarma Raama, European,1000,5,Jubilee Hills,,Central West Hyderabad
+583,Kaka's Grill & Kitchen," North Indian, Chinese, Mughlai",600,,SR Nagar,,Central East Hyderabad
+584,Aaromale," Mexican, Italian, Beverages",1100,4.7,Film Nagar,,Central West Hyderabad
+585,Cravery," Continental, Fast Food, Desserts, Beverages, Italian",800,4.4,Jubilee Hills,,Central West Hyderabad
+586,House of Gourmet," Continental, Italian, Beverages",1000,4,Jubilee Hills,,Central West Hyderabad
+587,Cream Stone," Desserts, Beverages",400,4.3,Sami Complex,Jubilee Hills,Central West Hyderabad
+588,Subway, Fast Food,500,, Sri Nagar Colony,,Central East Hyderabad
+589,SLIDERS & CO," Burger, Fast Food",400,,SD Road,,Secunderabad
+590,Express By AB's," North Indian, Biryani",600,,Banjara Hills,,Central East Hyderabad
+591,FRYKIKI," Fast Food, Mexican, Asian",800,5,PNR SSV Complex,A S Rao Nagar,Secunderabad
+592,Lucky's Biryani House," Chinese, North Indian",800,3.8,Amberpet,,East Hyderabad
+593,Istanbul, Middle Eastern,300,4.3,Sami Complex,Jubilee Hills,Central West Hyderabad
+594,Naidu Gari Kunda Biryani," North Indian, Andhra, Biryani, Chinese",700,2.3,Karkhana,,Secunderabad
+595,Guilt Trip," Continental, Italian, Fast Food, Desserts",800,3.9,Film Nagar,,Central West Hyderabad
+596,Rayalaseema Ruchulu," Andhra, South Indian, North Indian",1200,3.8,36 Square,Jubilee Hills,Central West Hyderabad
+597,Madhura - Flavours of Love," Chinese, Biryani, North Indian, South Indian",600,4.3,Film Nagar,,Central West Hyderabad
+598,The ThickShake Factory, Beverages,400,3.5,Amberpet,,East Hyderabad
+599,Euphoria Bakers, Desserts,500,,Paradise Circle,,Secunderabad
+600,Tashi Cafe," Chinese, Continental, Italian, Thai, Mexican, Beverages",1400,3.9,Jubilee Hills,,Central West Hyderabad
+601,Celebrations 365, Desserts,500,3.8,Bowenpally,,Secunderabad
+602,Enchante Cafe And Confectionery," Fast Food, Continental, Italian, Pizza, Desserts, Beverages",700,4.3,Jubilee Hills,,Central West Hyderabad
+603,La Cupula," North Indian, Chinese, Continental, Italian, Beverages",1200,3.3,Aditya Enclave,Jubilee Hills,Central West Hyderabad
+604,Tarz Kitchen and Coffee Bar," Health Food, Italian, Mediterranean, North Indian",800,4.2,Jubilee Hills,,Central West Hyderabad
+605,The Amlyn Cafe," Continental, Beverages",1200,5,Jubilee Hills,,Central West Hyderabad
+606,Clouds Restaurant," North Indian, Andhra, Chinese",700,,Banjara Hills,,Central East Hyderabad
+607,Cafe Affinite," Continental, Chinese, Beverages",900,,Ameerpet,,Central East Hyderabad
+608,Gaurang's Kitchen," North Indian, South Indian, Fast Food",1400,3,Jubilee Hills,,Central West Hyderabad
+609,Kortyard Cafe," Continental, Asian, Mediterranean, Beverages",1200,5,Jubilee Hills,,Central West Hyderabad
+610,AVO Cafe & Patisserie," Italian, Continental, Asian, Thai, Mediterranean, Beverages",1000,4,Jubilee Hills,,Central West Hyderabad
+611,Carpe Diem," Continental, Finger Food, North Indian, Pizza",2700,3.6,Jubilee Hills,,Central West Hyderabad
+612,Dadu's Mithai Vatika," Fast Food, Street Food, Beverages",500,4.1,36 Square,Jubilee Hills,Central West Hyderabad
+613,Chickpet Donne Biryani House," South Indian, Biryani",400,,Ameerpet,,Central East Hyderabad
+614,Barbeque Nation," North Indian, Chinese",2000,4.3,Alcazar Mall,Jubilee Hills,Central West Hyderabad
+615,Log Sabha," North Indian, Italian, Continental, Asian",1200,4.4,Film Nagar,,Central West Hyderabad
+616,Hummus House," Continental, Lebanese",1100,,Banjara Hills,,Central East Hyderabad
+617,Lucky's Biryani House," North Indian, Chinese, Biryani",500,2.4,Padma Rao Nagar,,East Hyderabad
+618,Pista House," Chinese, North Indian, Desserts, Beverages",800,2.4,Yousuf Tekri Complex,Tolichowki,Central Hyderabad
+619,Belgian Waffle Factory, Desserts,400,,Banjara Hills,,Central East Hyderabad
+620,Rajthali," Rajasthani, Gujarati",1100,3.6,Jubilee Hills,,Central West Hyderabad
+621,Vintage Kitchen," North Indian, Chinese",700,4,Junction 6,Amberpet,East Hyderabad
+622,Robo Kitchen," Chinese, North Indian",1200,3.5,Alcazar Mall,Jubilee Hills,Central West Hyderabad
+623,Masala Republic," Modern Indian, Fusion, Fast Food, Desserts, Asian",1000,3.9,Jubilee Hills,,Central West Hyderabad
+624,Monginis," Fast Food, Desserts",300,,Rani Gunj,,Secunderabad
+625,Pure Bliss," Beverages, Fast Food",600,5,Attapur,,South Hyderabad
+626,Waffles Den, Desserts,400,,Himayath Nagar,,Central Hyderabad
+627,Room Two," Continental, Modern Indian",1800,3,Jubilee Hills,,Central West Hyderabad
+628,La Milano Pizzeria," Italian, Pizza, Fast Food",500,,Himayath Nagar,,Central Hyderabad
+629,Tipsy Stories - Rooftop Bar," North Indian, Chinese",2500,3.5,Jubilee Hills,,Central West Hyderabad
+630,Cafe Melange," North Indian, Fast Food, Chinese",800,4.1,Film Nagar,,Central West Hyderabad
+631,Wow! Momo," Tibetan, Beverages, Fast Food",500,,Kavadiguda,,Central Hyderabad
+632,Wow! Chicken, Fast Food,500,,Necklace Road,,Secunderabad
+633,Makobrew World Coffee Bar," Continental, Fast Food, Beverages, Asian",800,4.3,Jubilee Hills,,Central West Hyderabad
+634,Chicken Shawarma Hub," Lebanese, Fast Food",400,, Sri Nagar Colony,,Central East Hyderabad
+635,The Symphony," North Indian, Continental, Asian",1200,4.1,Film Nagar,,Central West Hyderabad
+636,Tasty Bowl," North Indian, South Indian",600,4,Film Nagar,,Central West Hyderabad
+637,California Burrito," Mexican, Fast Food",500,,Praga Mall,Kavadiguda,Central Hyderabad
+638,The Bar," Chinese, North Indian",1400,,Kalasiguda,,Secunderabad
+639,DEE- the bar," Chinese, Finger Food",1400,,Kalasiguda,,Secunderabad
+640,ABs - Absolute Barbecues," North Indian, Biryani, Continental, Street Food, Desserts",1600,4.2,Pammasani Complex,Jubilee Hills,Central West Hyderabad
+641,Alcotales RestoBar (The Grand Solitaire)," North Indian, Chinese",1000,,SD Road,,Secunderabad
+642,Bel Posto The Cafe," Continental, Chinese, Fast Food, Beverages",1000,4.3,Jubilee Hills,,Central West Hyderabad
+643,Lemerian Workin Cafe," Continental, Italian, American, Desserts, Beverages",800,,Banjara Hills,,Central East Hyderabad
+644,Burger Mischief," Burger, American, Mexican, Fast Food",500,4.4,Jubilee Hills,,Central West Hyderabad
+645,Enigma The Experience," Fusion, Chinese, Italian, South Indian",1800,4,Malik Solitaire,Jubilee Hills,Central West Hyderabad
+646,Nicos Cafe & Lounge," North Indian, Continental",2500,4,Aditya Enclave,Jubilee Hills,Central West Hyderabad
+647,F House," Continental, Italian, Sushi, Beverages",2400,3.9,Jubilee Hills,,Central West Hyderabad
+648,Broadway," Continental, Chinese, North Indian, Italian",2600,4.4,Jubilee Hills,,Central West Hyderabad
+649,Nalla’s The Royal Treat Restaurant," North Indian, Seafood",1500,,Banjara Hills,,Central East Hyderabad
+650,Posh Nosh Lounge Bar," North Indian, Chinese, Italian, Fast Food",1000,2.7,Jubilee Hills,,Central West Hyderabad
+651,De Cafe Studio," Fast Food, Beverages",500,4.1,Malakpet,,South Hyderabad
+652,The Pizza Hub," Fast Food, Pizza",500,1.3,Kachiguda,,Central Hyderabad
+653,House Of Juices," Fast Food, Beverages",400,,Ameerpet,,Central East Hyderabad
+654,Mid Land Bakers & Confectioners, Fast Food,400,1.5,Ameerpet,,Central East Hyderabad
+655,The Lemon Sky," North Indian, Chinese",900,3.9,Attapur,,South Hyderabad
+656,99 Pancakes," Desserts, Pizza",500,,Himayath Nagar,,Central Hyderabad
+657,Wow! Momo," Tibetan, Chinese, Fast Food",500,,Himayath Nagar,,Central Hyderabad
+658,Tranquil Bistro," Continental, Chinese, North Indian",1600,4.2,Jubilee Hills,,Central West Hyderabad
+659,Chemistry," Finger Food, North Indian, Chinese",2200,3.9,Aditya Enclave,Jubilee Hills,Central West Hyderabad
+660,Kholani's Dine in Barbeque," North Indian, Chinese, Mughlai",1000,3.3,Tolichowki,,Central Hyderabad
+661,Amma Cheti Vanta," North Indian, Chinese, Seafood, Biryani",600,,Yousufguda,,Central East Hyderabad
+662,The Old Madras Baking Company, Fast Food,800,3.2,Film Nagar,,Central West Hyderabad
+663,RK Sweets & Juices, Desserts,300,,Yousufguda,,Central East Hyderabad
+664,La Pinoz Pizza," Pizza, Fast Food",500,2.7,Cuba Food Havana,Film Nagar,Central West Hyderabad
+665,Baklava King," Desserts, Fast Food",400,,SD Road,,Secunderabad
+666,Wow! Momo," Tibetan, Fast Food, Beverages",500,,Banjara Hills,,Central East Hyderabad
+667,The Frozen Village," Chinese, Fast Food, Desserts",600,3.5,Tolichowki,,Central Hyderabad
+668,Gelatissimo, Desserts,400,,Himayath Nagar,,Central Hyderabad
+669,Makers Of Milkshakes," Beverages, Desserts",400,3.8,Film Nagar,,Central West Hyderabad
+670,Oceana By Family World," North Indian, Chinese, Seafood",900,,Begumpet,,Secunderabad
+671,Cream Stone," Desserts, Beverages",400,4.3,Tolichowki,,Central Hyderabad
+672,London Waffle Co.," Desserts, Beverages",300,,Himayath Nagar,,Central Hyderabad
+673,Gabru Di Chaap," Fast Food, North Indian",500,,Himayath Nagar,,Central Hyderabad
+674,The Nosh Bistro," Fast Food, Continental, Desserts, Beverages",600,,Himayath Nagar,,Central Hyderabad
+675,Krishnapatnam," South Indian, Andhra, Mughlai",1500,3.7,Forum Sujana Mall,Kukatpally,West Hyderabad
+676,Wahh Chaap," Fast Food, North Indian",500,,Himayath Nagar,,Central Hyderabad
+677,UFO, Fast Food,400,,Himayath Nagar,,Central Hyderabad
+678,Soups N Salads," Italian, Mexican, Health Food",1000,4.3,Jubilee Hills,,Central West Hyderabad
+679,Pop O'Bob - Premium Bubble Tea," Beverages, Fast Food",400,3.1,Film Nagar,,Central West Hyderabad
+680,Wok To Walk, Chinese,500,5,Jubilee Hills,,Central West Hyderabad
+681,Fusion 9," Asian, Fusion, Italian",2200,4.4,Jubilee Hills,,Central West Hyderabad
+682,Giani's," Desserts, Beverages",400,,Himayath Nagar,,Central Hyderabad
+683,The Waffle Co.," North Indian, Continental, Chinese",400,,Banjara Hills,,Central East Hyderabad
+684,Giani's," Desserts, Beverages",400,,Banjara Hills,,Central East Hyderabad
+685,Sahara Bakers," Chinese, Fast Food, Desserts",400,,RTC X Road,,Central Hyderabad
+686,Banjara Palace," North Indian, Chinese, Mughlai",800,,Banjara Hills,,Central East Hyderabad
+687,Autumn Leaf Cafe," Continental, Fast Food, Beverages, Desserts",1000,4.2,Jubilee Hills,,Central West Hyderabad
+688,Temptations," Desserts, Beverages",600,,Bowenpally,,Secunderabad
+689,Echoes Living Room," Fast Food, Continental",900,4.6,Madhapur,,West Hyderabad
+690,Naaku Mooka," Chinese, South Indian",500,,Nampally,,Central Hyderabad
+691,Repete Brewery & Kitchen," North Indian, Italian, Continental",2000,3.8,Aditya Enclave,Jubilee Hills,Central West Hyderabad
+692,Capital Multi Cuisine Restaurant," North Indian, Chinese",500,,Basheerbagh,,Central Hyderabad
+693,Tevar - The Progressive Indian Kitchen & Bar," Modern Indian, North Indian, Street Food",3500,5,Hitech City,,West Hyderabad
+694,Shaso Food Fusion," North Indian, Middle Eastern",1100,,Masab Tank,,Central East Hyderabad
+695,Beans & Brie Bistro," Continental, Italian, Beverages",1400,4.2,Aditya Enclave,Jubilee Hills,Central West Hyderabad
+696,Tom n Nori," Chinese, American",2000,4,Jubilee Hills,,Central West Hyderabad
+697,Sachii Sky Bar & Kitchen," North Indian, European, Asian, Goan",1600,,Banjara Hills,,Central East Hyderabad
+698,The Burger Company," Burger, Fast Food",400,,Madhura Nagar,,Central East Hyderabad
+699,Shatabdi Indian Kitchen & Bar," North Indian, South Indian, Chinese",1400,4.5,Jubilee Hills,,Central West Hyderabad
+700,New King Mandi," Mughlai, Hyderabadi, Chinese, Fast Food",1000,,Himayath Nagar,,Central Hyderabad
+701,Fantastic Four Cafe," Fast Food, Beverages",700,,Himayath Nagar,,Central Hyderabad
+702,Crispy Hub, Fast Food,400,,Musheerabad,,East Hyderabad
+703,Waffle World Food," Desserts, Fast Food",500,,RTC X Road,,Central Hyderabad
+704,Chickpet Donne Biryani House," Biryani, South Indian",500,,Himayath Nagar,,Central Hyderabad
+705,Diablo," Mediterranean, Turkish, Iranian, Italian",1500,3.8,Jubilee Hills,,Central West Hyderabad
+706,LYF Cafe," Health Food, Continental, Desserts, Beverages",1500,3.8,Jubilee Hills,,Central West Hyderabad
+707,"3Bs - Buddies, Bar & Barbecue", North Indian,1200,4.2,Pammasani Complex,Jubilee Hills,Central West Hyderabad
+708,Circles," Continental, North Indian, Chinese",1500,4.1,Hotel Daspalla,Jubilee Hills,Central West Hyderabad
+709,Abids Bistro," North Indian, South Indian, Chinese",1500,,Abids,,Central Hyderabad
+710,Cafe Lilliput," North Indian, Chinese, Continental",1600,5,Madhapur,,West Hyderabad
+711,Lacto Nile," Fast Food, Desserts",300,,Abids,,Central Hyderabad
+712,MudBrick Kitchen and Bar," Continental, European, North Indian",1800,4.2,Jubilee Hills,,Central West Hyderabad
+713,Muddapappu Avakai.Com," South Indian, Andhra",600,,Himayath Nagar,,Central Hyderabad
+714,Fuel cafe, Continental,800,,Banjara Hills,,Central East Hyderabad
+715,Robazta Cafe & Lounge," North Indian, Italian, Fast Food, Beverages",1500,,Banjara Hills,,Central East Hyderabad
+716,KK-Krishnas Kitchen," Chinese, Andhra, North Indian",1200,4.2,Madhapur,,West Hyderabad
+717,Aqua Spirit," Chinese, Italian, Andhra, Asian, North Indian",1400,4.4,Hotel Daspalla,Jubilee Hills,Central West Hyderabad
+718,Coffee Times," North Indian, Chinese, Continental, South Indian",800,4.2,Hotel Daspalla,Jubilee Hills,Central West Hyderabad
+719,Waffle Studio," Desserts, Beverages",600,,Himayath Nagar,,Central Hyderabad
+720,Amritsar Haveli," North Indian, Chinese, Beverages",1000,4.1,M Cube Mall,Attapur,South Hyderabad
+721,Arabian Gourmet, Arabian,1200,2,Jubilee Hills,,Central West Hyderabad
+722,Waffles & Dinges, Desserts,400,,Himayath Nagar,,Central Hyderabad
+723,Pizza Hut," Pizza, Fast Food",800,,Nallakunta,,Central Hyderabad
+724,The Arabian Mandi And Biryani House," Arabian, Biryani",800,,SR Nagar,,Central East Hyderabad
+725,Pista House," Fast Food, Desserts",400,,Mehdipatnam,,Central Hyderabad
+726,Sounds & Spirits," Finger Food, Fast Food",1800,4,Madhapur,,West Hyderabad
+727,Ohri's Uppu," South Indian, Andhra",1400,,Begumpet,,Secunderabad
+728,Sanjos Donuts," Fast Food, Desserts, Beverages",500,1,Bowenpally,,Secunderabad
+729,Revolt Jubilee Hills," Chinese, North Indian",2000,3.8,Aditya Enclave,Jubilee Hills,Central West Hyderabad
+730,Hush Cafe," Continental, Fast Food",700,4.2,Madhapur,,West Hyderabad
+731,Shake Studio, Beverages,600,,Himayath Nagar,,Central Hyderabad
+732,Kaloreez, North Indian,800,4.5,Madhapur,,West Hyderabad
+733,The Garden Cafe," Health Food, Fast Food, Beverages",1100,4.5,Madhapur,,West Hyderabad
+734,Kesariya's Sweets," Street Food, North Indian, Desserts",400,4.3,Madhapur,,West Hyderabad
+735,Biggies Burger 'n' More," Burger, Fast Food",400,3.9,Jubilee Hills,,Central West Hyderabad
+736,Ohri's Cake Nation, Desserts,1000,,Kukatpally,,West Hyderabad
+737,Mirame Cafe & Kitchen," North Indian, Fast Food, Beverages",1200,,Himayath Nagar,,Central Hyderabad
+738,The Chocolate Room," Beverages, Desserts, Fast Food, Italian",800,4.5,Attapur,,South Hyderabad
+739,Flavours-The Restaurant of Jubilee Ridge," Andhra, Biryani, Continental, South Indian, North Indian, Chinese",1200,4.1,Jubilee Hills,,Central West Hyderabad
+740,Nectar Kitchen & Bar," Continental, Asian, North Indian",1300,3.6,Jubilee Hills,,Central West Hyderabad
+741,Airo Cafe," Continental, Mediterranean",900,,Banjara Hills,,Central East Hyderabad
+742,Chinese Corner Restaurant," Fast Food, Chinese",500,,Chikkadpally,,East Hyderabad
+743,The ThickShake Factory, Beverages,400,,Mehdipatnam,,Central Hyderabad
+744,ABs - Absolute Barbecues," North Indian, Continental",1600,5,Attapur,,South Hyderabad
+745,BLVD," Continental, North Indian",1800,3.8,Jubilee Hills,,Central West Hyderabad
+746,Wisphot, Fast Food,500,,Yousufguda,,Central East Hyderabad
+747,Over The Moon," Continental, Asian, Fast Food",1600,3.9,Hotel Daspalla,Jubilee Hills,Central West Hyderabad
+748,NIC : Honestly Crafted Ice Cream, Desserts,200,4.7,Jubilee Hills,,Central West Hyderabad
+749,Mama's Kitchen," Chinese, Andhra",1000,3.4,Aditya Enclave,Jubilee Hills,Central West Hyderabad
+750,Pizza Hut," Pizza, Fast Food",800,3.8,M Cube Mall,Attapur,South Hyderabad
+751,Ci Gusta," Desserts, Italian",1000,4.6,Madhapur,,West Hyderabad
+752,Just Not Shakes, Beverages,200,4,Madhapur,,West Hyderabad
+753,Olive Bistro & Bar," Italian, European, Desserts, Beverages",1900,4.2,Jubilee Hills,,Central West Hyderabad
+754,Spice Den, Chinese,500,,Padma Rao Nagar,,East Hyderabad
+755,Sri Krishna Udupi Park, South Indian,300,,Rukmini Apartment,Yousufguda,Central East Hyderabad
+756,Bird Box - Bar & Cafe," Chinese, Italian, North Indian, Fast Food, Continental",1400,4.1,Zen Building,Madhapur,West Hyderabad
+757,Krispy Kreme," Desserts, Beverages",600,,SD Road,,Secunderabad
+758,Riwayat," Hyderabadi, Mughlai, North Indian",1200,3.7,Jubilee Hills,,Central West Hyderabad
+759,The Fort Club," North Indian, Chinese, South Indian",600,4.3,Ambiance Fort,Attapur,South Hyderabad
+760,Palamuru Grill," Andhra, South Indian, Biryani, Hyderabadi",800,4,Attapur,,South Hyderabad
+761,Indulge Ice Cream, Desserts,300,,SD Road,,Secunderabad
+762,Wow! Momo," Tibetan, Chinese, Asian",500,5,Malakpet,,South Hyderabad
+763,Tilak's Kitchen," North Indian, Chinese, Andhra, Biryani",500,3.6,Madhapur,,West Hyderabad
+764,Waffle House," Fast Food, Desserts",600,4.5,Madhapur,,West Hyderabad
+765,Flying Sparrow Cafe," Chinese, Continental, Beverages",900,3.8,Jubilee Hills,,Central West Hyderabad
+766,Hyderabad Spice," North Indian, Biryani, Chinese, Hyderabadi",1000,4.3,Accord Bleu Building,Madhapur,West Hyderabad
+767,The Palm Banjara, North Indian,1800,,Banjara Hills,,Central East Hyderabad
+768,Mumbai Kulfi, Desserts,300,,Narayanaguda,,Central Hyderabad
+769,Pizza Hut," Pizza, Fast Food",800,4.6,Malakpet,,South Hyderabad
+770,Rajasthan Restaurant," Rajasthani, North Indian",400,5,Madhapur,,West Hyderabad
+771,Wild West Burgers," Italian, Fast Food, Beverages",500,,Narayanaguda,,Central Hyderabad
+772,Sandwich Eatery," Fast Food, Beverages",500,,Narayanaguda,,Central Hyderabad
+773,Nitchal Grand Restaurant," North Indian, Chinese",600,,Padma Rao Nagar,,East Hyderabad
+774,Retro Cafe & Bistro," Continental, Fast Food, Beverages, Andhra",800,5,Retro Drive In,Madhapur,West Hyderabad
+775,Smoke and Sizzle," Arabian, North Indian, Chinese, Continental, Beverages",600,,Narayanaguda,,Central Hyderabad
+776,The Hoppery," Continental, Finger Food, Italian",2200,4.2,Jubilee Hills,,Central West Hyderabad
+777,Mama Panda," Chinese, Asian",1500,4,Madhapur,,West Hyderabad
+778,Gudgudee - Tickle Your Tastebuds," North Indian, Thai, Chinese",1400,4.3,Madhapur,,West Hyderabad
+779,Makers Of Milkshakes," Beverages, Desserts",400,4,Malakpet,,South Hyderabad
+780,Sacred Earth Cafe," Italian, Mediterranean",1000,4.1,Madhapur,,West Hyderabad
+781,ABs - Absolute Barbecues," North Indian, Continental",1600,4,Next Galleria Mall,Panjagutta,Central East Hyderabad
+782,Trisha Foods," Fast Food, Street Food, Chinese, Beverages",300,,Abids,,Central Hyderabad
+783,Ta.Ma.Sha- Restro Cafe," North Indian, Chinese, Italian, Fast Food, Desserts",1500,3.2,Jubilee Hills,,Central West Hyderabad
+784,99 Pancakes," Desserts, Pizza",500,3,Jubilee Hills,,Central West Hyderabad
+785,Exotica," North Indian, Chinese, Mughlai",1600,4.3,Business Square,Hitech City,West Hyderabad
+786,DATE Café & Lounge," Arabian, Lebanese",900,3.7,Madhapur,,West Hyderabad
+787,Amnesia Sky Bar," North Indian, Continental",2100,4,Inorbit Mall,Madhapur,West Hyderabad
+788,Pi," Continental, North Indian, Beverages, Italian",2000,4.7,Hotel Avasa,Hitech City,West Hyderabad
+789,Euphoria Bakers, Desserts,500,,Padma Rao Nagar,,East Hyderabad
+790,FB Cakes, Desserts,500,,Santosh Nagar,,South Hyderabad
+791,Ala Dakshinapuramlo, South Indian,1200,4.5,Phoenix Tower A,Hitech City,West Hyderabad
+792,Creme Borne, Desserts,800,,Abids,,Central Hyderabad
+793,A'La Liberty," North Indian, Chinese, Mexican",1000,4.1,Cyber Grub,Hitech City,West Hyderabad
+794,Fusion 9," Asian, Fusion, Italian",2200,4.2,Inorbit Mall,Madhapur,West Hyderabad
+795,Sri Santosh Family Dhaba," North Indian, Chinese",600,2.8,Tarnaka,,East Hyderabad
+796,Nag Restaurant and Banquets," Hyderabadi, North Indian, Chinese",900,2.6,Alwal,,Secunderabad
+797,Arabian Shawarma, Lebanese,300,,Himayath Nagar,,Central Hyderabad
+798,10 Downing Street," North Indian, Continental, Chinese, Fusion",1000,4,Kompally,,Secunderabad
+799,Grease Monkey," North Indian, Italian, Beverages, Chinese, Finger Food",2900,,Empire Square Building,Jubilee Hills,Central West Hyderabad
+800,Munching Time," Fast Food, Beverages",600,4,Malkajgiri,,Secunderabad
+801,The Ice Cream Bakery, Desserts,400,,Abids,,Central Hyderabad
+802,Sai Kailash Dhaba," Chinese, North Indian",700,4.4,Attapur,,South Hyderabad
+803,Express By AB's," North Indian, Biryani",600,2.9,Pammasani Complex,Jubilee Hills,Central West Hyderabad
+804,The Globe Grub," North Indian, Chinese, Fast Food",2000,4.1,Gachibowli,,West Hyderabad
+805,Sandwich Eatery," Fast Food, Beverages",500,,Karkhana,,Secunderabad
+806,Chinese Cornerz, Chinese,400,4.5,Madhapur,,West Hyderabad
+807,ABs - Absolute Barbecues," North Indian, Continental",1600,4.2,Madhapur,,West Hyderabad
+808,Ironhill Cafe," Continental, Italian, Fast Food, Beverages",900,4.2,Huda Techno Enclave,Madhapur,West Hyderabad
+809,Casa De Latte," Fast Food, Beverages",700,,Banjara Hills,,Central East Hyderabad
+810,Elsewhere Lounge & Kitchen," Continental, Asian, Italian",2200,4,Fantasy Square Building,Gachibowli,West Hyderabad
+811,The Tea Planet, Tea,500,,Banjara Hills,,Central East Hyderabad
+812,Tipsy Topsy Bakers," Fast Food, Chinese, Desserts",500,,Mehdipatnam,,Central Hyderabad
+813,Hyderabad House," North Indian, Mughlai, Desserts",1000,,Jubilee Hills,,Central West Hyderabad
+814,Cream Stone," Desserts, Beverages",400,4.7,Habsiguda,,East Hyderabad
+815,Spice 44," South Indian, Chettinad, Chinese",800,3.2,Kompally,,Secunderabad
+816,The Bedford Bakehouse And Tearoom," Continental, Italian, Beverages, Desserts",1000,,Banjara Hills,,Central East Hyderabad
+817,Raju Gari Biryani," North Indian, Biryani, Chinese",600,4.6,Manikonda,,West Hyderabad
+818,T- Grill," North Indian, South Indian, Andhra, Mughlai",700,3.1,Madhapur,,West Hyderabad
+819,Capital Multi Cuisine Restaurant," Arabian, North Indian, Biryani, Chinese, Mughlai",1000,4.3,Malakpet,,South Hyderabad
+820,Euphoria Bakers, Desserts,500,,Abids,,Central Hyderabad
+821,Makers Of Milkshakes," Beverages, Desserts",400,,East Marredpalli,,Secunderabad
+822,Yummy Bee, Desserts,500,,Jubilee Hills,,Central West Hyderabad
+823,Taco Bell," Mexican, Tex Mex",500,3.2,Malakpet,,South Hyderabad
+824,Hut-K Spice Kitchen," North Indian, South Indian, Chinese",900,3.9,Madhapur,,West Hyderabad
+825,YOKO SIZZLERS, Chinese,800,,Jubilee Hills,,Central West Hyderabad
+826,Pizzaexpress," Italian, Pizza",1600,5,Inorbit Mall,Madhapur,West Hyderabad
+827,KKD Restaurant & Bar," Chinese, South Indian, North Indian",1200,3.6,Madhapur,,West Hyderabad
+828,Sandwich Eatery," Fast Food, Beverages",500,4.4,Manikonda,,West Hyderabad
+829,Wow! China by Wow! Momo," Chinese, Asian, Fast Food",1000,,West Marredpalli,,Secunderabad
+830,Dock Frost'd," Desserts, Beverages",400,5,Oyster Uptown Building,Madhapur,West Hyderabad
+831,Gabru Di Chaap," Fast Food, North Indian",500,5,Inorbit Mall,Madhapur,West Hyderabad
+832,Wow! Momo," Tibetan, Chinese, Asian",500,,East Marredpalli,,Secunderabad
+833,Rotis," North Indian, Continental, Chinese",1200,4,Hardhick Crown,Hitech City,West Hyderabad
+834,Krimmy Thick Shakes, Beverages,300,5,Hitech City,,West Hyderabad
+835,Mandi Bistro," Mughlai, Beverages",800,5,Madhapur,,West Hyderabad
+836,Renao - Cafe & Bistro," North Indian, Continental, Asian, Beverages",1500,4.5,Madhapur,,West Hyderabad
+837,Lassi Shop," Desserts, Beverages",200,,Kachiguda,,Central Hyderabad
+838,Ministry Of Coffee Affairs," Continental, Fast Food, Chinese, Beverages",900,4,Madhapur,,West Hyderabad
+839,The ThickShake Factory, Beverages,400,4,Manikonda,,West Hyderabad
+840,The Kurtos," Fast Food, Desserts, Beverages",600,4.6,Madhapur,,West Hyderabad
+841,Wow! Momo," Tibetan, Fast Food, Beverages",500,5,Habsiguda,,East Hyderabad
+842,The Globe Grub," North Indian, Chinese, Fast Food",2000,,Jubilee Hills,,Central West Hyderabad
+843,180 Oven Cafe And Bistro," Fast Food, Pizza, Beverages",600,4.3,Manikonda,,West Hyderabad
+844,Jathara," North Indian, South Indian, Andhra, Biryani, Desserts, Beverages",2000,,Jubilee Hills,,Central West Hyderabad
+845,The Palate Pleasure - Cafe & Bistro," Continental, Chinese, Modern Indian, Beverages",600,5,Madhapur,,West Hyderabad
+846,1989 Milkshakes," Continental, Fast Food, Beverages",700,4.7,Dilsukh Nagar,,East Hyderabad
+847,Bhookmark, Fast Food,400,4.7,Kukatpally,,West Hyderabad
+848,Taste of India," Chinese, North Indian, Beverages",1000,3.7,Habsiguda,,East Hyderabad
+849,1989 Pizza & Thick Shakes," Pizza, Beverages",700,4.6,Dilsukh Nagar,,East Hyderabad
+850,Shree Santosh Family Dhaba," North Indian, Chinese",600,3.7,Madhapur,,West Hyderabad
+851,Baby Lamb," South Indian, North Indian, Biryani",1600,2.5,Jubilee Hills,,Central West Hyderabad
+852,Pizza Hut," Pizza, Fast Food",800,4.4,Inorbit Mall,Madhapur,West Hyderabad
+853,Punjabi Affair," North Indian, Chinese",900,4.2,Oyster Uptown Building,Madhapur,West Hyderabad
+854,Cafe Chocolicious," Fast Food, Beverages, Pizza, Burger",600,5,Madhapur,,West Hyderabad
+855,Little Italy," Italian, Pizza, Beverages, Mexican",1500,4.2,Madhapur,,West Hyderabad
+856,Smaaash C2H5OH Bowling Sports Bar," Continental, Fusion, Finger Food",1600,4.3,Inorbit Mall,Madhapur,West Hyderabad
+857,BRC - Bavarain Roast Cafe," Finger Food, Continental, Mexican, Fast Food",2200,2.5,Jubilee Hills,,Central West Hyderabad
+858,Telangana Grill and Kitchen," South Indian, North Indian, Chinese",1000,,Jubilee Hills,,Central West Hyderabad
+859,The Joint Al Mandi," Lebanese, Arabian",800,4.3,Madhapur,,West Hyderabad
+860,Cherla's Cafe & Restaurant," Chinese, North Indian, Bengali",800,5,Madhapur,,West Hyderabad
+861,Girlfriend Arabian Mandi Restaurant, Arabian,1000,4.2,Hitech City,,West Hyderabad
+862,Yumla, Fast Food,400,4.5,Madhapur,,West Hyderabad
+863,10 Biryanis," North Indian, Mughlai, Biryani, Beverages",800,,Jubilee Hills,,Central West Hyderabad
+864,Hard Rock Cafe," Finger Food, American, Continental, Hyderabadi",2400,4.3,Hitech City,,West Hyderabad
+865,Zomoz, Tibetan,300,4.3,Madhapur,,West Hyderabad
+866,Taco Bell," Mexican, Tex Mex",500,4.3,Madhapur,,West Hyderabad
+867,Flechazo," Mediterranean, Continental, Chinese, North Indian, Mangalorean",1400,3.8,Kompally,,Secunderabad
+868,Brickwood, Italian,1200,4,Madhapur,,West Hyderabad
+869,Chili’s American Grill and Bar," American, Mexican, Tex Mex",1800,4.1,Inorbit Mall,Madhapur,West Hyderabad
+870,The Spice Avenue Multi Cuisine Restaurant, North Indian,800,5,Madhapur,,West Hyderabad
+871,Flechazo," Mediterranean, Continental, Chinese, North Indian, Mangalorean",1400,3.7,Madhapur,,West Hyderabad
+872,Punjab Bistro," North Indian, Asian, Mughlai",1500,4.1,Inorbit Mall,Madhapur,West Hyderabad
+873,The New Kerala Kitchen," South Indian, North Indian",800,,Karkhana,,Secunderabad
+874,Mid Land Bakers & Confectioners," Chinese, Fast Food, Desserts",400,3.9,Madhapur,,West Hyderabad
+875,Seasonal Tastes," Chinese, North Indian, Continental, South Indian",3000,4.2,The Westin Hyderabad Mindspace,Hitech City,West Hyderabad
+876,California Burrito," Mexican, Fast Food",500,4.1,Madhapur,,West Hyderabad
+877,The Biryani Blues," Biryani, North Indian, Chinese, Fast Food",500,5,The Alley Drive In,Madhapur,West Hyderabad
+878,Ankapur Village Hotel," Hyderabadi, Mughlai",900,3.8,Madhapur,,West Hyderabad
+879,FB Cakes, Desserts,500,1,Amberpet,,East Hyderabad
+880,Hum Tum Masala Delight," North Indian, Chinese, Fast Food, Italian",700,,Mothinagar,,West Hyderabad
+881,500CC Foodies Club," Chinese, North Indian, Beverages",800,4.1,Madhapur,,West Hyderabad
+882,RoosterX, Arabian,400,5,Dilsukh Nagar,,East Hyderabad
+883,Harley's Fine Baking," Desserts, Beverages, Fast Food",600,5,Madhapur,,West Hyderabad
+884,Sanjos Donuts," Fast Food, Desserts, Beverages",500,,Nallakunta,,Central Hyderabad
+885,Cookie Man," Desserts, Beverages",300,4,Inorbit Mall,Madhapur,West Hyderabad
+886,President Dhaba," North Indian, Chinese, Mughlai",1000,4,Madhapur,,West Hyderabad
+887,STR8UP," North Indian, Continental",1500,3.9,Jaysudha Heights,Madhapur,West Hyderabad
+888,The Nosh Bistro," Fast Food, Italian",600,4.2,Habsiguda,,East Hyderabad
+889,Eagles Pizza," Pizza, Fast Food",600,4,Habsiguda,,East Hyderabad
+890,Pista House, Fast Food,500,2.5,Charminar,,South Hyderabad
+891,Makau," Continental, Asian",2500,,Jubilee Hills,,Central West Hyderabad
+892,Sanjos Donuts," Fast Food, Desserts, Beverages",500,3.9,Manikonda,,West Hyderabad
+893,Wow! China by Wow! Momo," Chinese, Asian, Fast Food",700,3.8,Inorbit Mall,Madhapur,West Hyderabad
+894,The Kurtosh Story," European, Street Food, Desserts",300,4.5,Madhapur,,West Hyderabad
+895,Kazuza," Continental, Fast Food, Beverages",800,3.5,Habsiguda,,East Hyderabad
+896,Harsha," North Indian, Chinese",500,,Kachiguda,,Central Hyderabad
+897,The Friger Co.," Fast Food, Burger, Beverages",600,5,Madhapur,,West Hyderabad
+898,Minyu," Chinese, Asian",1000,4.3,Madhapur,,West Hyderabad
+899,Giani's," Desserts, Beverages",400,,Sikh Village,,Secunderabad
+900,Makers Of Milkshakes," Beverages, Desserts",400,4,Habsiguda,,East Hyderabad
+901,Maharaja Inn Cafe & Kitchen," North Indian, Chinese",800,,Kachiguda,,Central Hyderabad
+902,Cream Town," Desserts, Beverages, Fast Food",300,2.1,Kukatpally,,West Hyderabad
+903,Stikstof Ice-cream Cafe," Desserts, Beverages, Fast Food",500,3.9,Madhapur,,West Hyderabad
+904,The Grand Trunk Road," North Indian, Chinese, South Indian",1100,4,Madhapur,,West Hyderabad
+905,Bar One," North Indian, Chinese",1000,3.7,Jaysudha Heights,Madhapur,West Hyderabad
+906,Breeze Monkey," North Indian, Chinese, Fast Food",2500,,Jubilee Hills,,Central West Hyderabad
+907,NorFest - The Dhaba," North Indian, Chinese",900,3.7,Apnaa Nukkad Drive In,Dilsukh Nagar,East Hyderabad
+908,Munching Time, Fast Food,500,2.5,Malkajgiri,,Secunderabad
+909,Ice Cream Works, Desserts,300,3,Habsiguda,,East Hyderabad
+910,Cream Stone," Desserts, Beverages",400,4.4,Bullet King Commercial Complex,Hitech City,West Hyderabad
+911,The Big Cup Theory," Continental, Italian, European",1000,4.3,Madhapur,,West Hyderabad
+912,Akshya Patra," Chinese, Italian, Fast Food",800,4.2,Madhapur,,West Hyderabad
+913,Kumbakarnas Restaurant," North Indian, Andhra, South Indian, Biryani",1000,2.3,Tarnaka,,East Hyderabad
+914,DOF Cafe, Fast Food,500,3.7,Prithvi Complex,Habsiguda,East Hyderabad
+915,Pompeii Pizza Studio," Italian, Continental",1800,4.5,Madhapur,,West Hyderabad
+916,Rayalaseema Ruchulu," Andhra, South Indian, North Indian",1200,3.9,Sun Towers,Madhapur,West Hyderabad
+917,Trops Kitchen & Tavern," Italian, Continental, Asian",2600,3,Hitech City,,West Hyderabad
+918,IX Cream, Desserts,300,4.1,Madhapur,,West Hyderabad
+919,Hotel Simhapuri Deluxe," Andhra, South Indian",500,4.1,Madhapur,,West Hyderabad
+920,Red Rhino," Italian, Modern Indian, Asian, Sushi, Mediterranean, Beverages",2400,4.1,Hitech City,,West Hyderabad
+921,Pizza Hut," Pizza, Fast Food",800,,Karkhana,,Secunderabad
+922,Urban Munchies, Fast Food,400,,Adikmet,,Central Hyderabad
+923,Frosty Den," Fast Food, Desserts",400,,Amberpet,,East Hyderabad
+924,Country Oven," Fast Food, Desserts, Beverages",800,2.7,Madhapur,,West Hyderabad
+925,Desi Zayqa," North Indian, Chinese, Biryani",600,4,Madhapur,,West Hyderabad
+926,Palamuru Grill," Andhra, South Indian, Biryani, Hyderabadi",800,4,Madhapur,,West Hyderabad
+927,Cock & Bull," Continental, Italian",2100,5,Hitech City,,West Hyderabad
+928,Dildaar," North Indian, Beverages",700,4.2,Madhapur,,West Hyderabad
+929,Mexican Grill Subs, Mexican,400,,Jubilee Hills,,Central West Hyderabad
+930,Platform 65," Chinese, North Indian",700,3.7,Dilsukh Nagar,,East Hyderabad
+931,Kangan," North Indian, Mughlai",3000,4.3,The Westin Hyderabad Mindspace,Hitech City,West Hyderabad
+932,Chicken Shawarma Hub," Lebanese, Fast Food",400,3.9,Madhapur,,West Hyderabad
+933,Lunch Box," North Indian, Chinese, Biryani",700,3.8,Madhapur,,West Hyderabad
+934,Minerva Coffee Shop," North Indian, South Indian, Chinese, Beverages",800,4.1,Hitech City,,West Hyderabad
+935,Ohm," Asian, Chinese, Indonesian, Japanese, Thai",2000,4.5,Avasa Hotel,Madhapur,West Hyderabad
+936,Shake Studio," Fast Food, Beverages",600,,Ameerpet,,Central East Hyderabad
+937,Casbah," Mediterranean, Iranian",2500,4.1,The Westin Hyderabad Mindspace,Hitech City,West Hyderabad
+938,Prego, Italian,2300,4.3,The Westin Hyderabad Mindspace,Hitech City,West Hyderabad
+939,Pānch Saù," North Indian, Chinese, Continental",1200,3.8,Kukatpally,,West Hyderabad
+940,7 Sisters," Asian, Japanese, Thai, Sushi",800,4.1,Kompally,,Secunderabad
+941,Cream Stone," Desserts, Beverages",400,5,Attapur,,South Hyderabad
+942,Ironhill Cafe," Fast Food, Italian, Beverages",700,4.2,Madhapur,,West Hyderabad
+943,Al Ridaan Multicuisine Arabian Mandi Restaurant," North Indian, Arabian, Chinese, Mughlai, Biryani",800,,Bowenpally,,Secunderabad
+944,The Glass House," Continental, Modern Indian",1800,,Jubilee Hills,,Central West Hyderabad
+945,Strawberry Blues, Beverages,300,5,Alwal,,Secunderabad
+946,Hitec Nanking," Chinese, Fast Food",1100,3.8,SBR CV Tower,Madhapur,West Hyderabad
+947,Bake Bar, Desserts,400,4,Madhapur,,West Hyderabad
+948,Pakka Local," North Indian, Andhra, Chinese",1300,4.1,Hitech City,,West Hyderabad
+949,Daily Treats," Continental, North Indian, Desserts, Health Food",2000,4.7,The Westin Hyderabad Mindspace,Hitech City,West Hyderabad
+950,La Sabroso," Continental, Chinese",800,5,Madhapur,,West Hyderabad
+951,Pause Bar & Lounge," North Indian, Asian, Continental",1800,4,SBR Pearl,Hitech City,West Hyderabad
+952,Taco Bell," Mexican, Tex Mex",500,4.2,L & T Metro Mall,Madhapur,West Hyderabad
+953,Rachit's Restaurant," North Indian, Andhra, South Indian",800,4.8,Dilsukh Nagar,,East Hyderabad
+954,Indulge Ice Cream, Desserts,300,,SL Jubliee,Jubilee Hills,Central West Hyderabad
+955,Sanjos Donuts," Fast Food, Desserts, Beverages",500,,Tolichowki,,Central Hyderabad
+956,19 Hrs Cafe and Bistro," Continental, Italian, Fast Food, Desserts",1000,5,Nacharam,,East Hyderabad
+957,Blue Fox," North Indian, Mughlai, Chinese, Continental",1500,3.9,Hitech City,,West Hyderabad
+958,Wow! Momo, Tibetan,400,3,Inorbit Mall,Madhapur,West Hyderabad
+959,Ohri's Sahibs Barbeque," North Indian, Hyderabadi",2000,3.9,Cyber Grub,Hitech City,West Hyderabad
+960,Hoy Punjab," North Indian, Mughlai, Beverages",1500,4.1,Gachibowli,,West Hyderabad
+961,Taste of Rajasthan," Rajasthani, North Indian",400,2.3,Madhapur,,West Hyderabad
+962,Pop O'Bob - Premium Bubble Tea," Beverages, Fast Food",400,2.5,Manikonda,,West Hyderabad
+963,Kritunga Palegar Restaurant," Andhra, North Indian, Chinese, Hyderabadi",800,2.5,Habsiguda,,East Hyderabad
+964,Clove - The Platinum Hotel," North Indian, Italian, Desserts, Beverages",1500,5,Mantra Mall,Rajendra Nagar,South Hyderabad
+965,Barkaas Indo Arabic Mandi KPHB," North Indian, Desserts",800,4,Kukatpally,,West Hyderabad
+966,Kebab House," North Indian, Mughlai",500,5,Kings Drive In,Madhapur,West Hyderabad
+967,Hot Days Burger," Fast Food, Burger",600,5,Kings Drive In,Madhapur,West Hyderabad
+968,Cross Breed Cub & Kitchen," Continental, North Indian, Beverages",2200,4,Gachibowli,,West Hyderabad
+969,Mix, Finger Food,2000,4.4,The Westin Hyderabad Mindspace,Hitech City,West Hyderabad
+970,Mid Land Bakers & Confectioners," Chinese, Continental, Fast Food, Desserts",500,4,Manikonda,,West Hyderabad
+971,Flechazo," Mediterranean, Continental, Chinese, North Indian, Mangalorean",1400,3.9,Raidurgam,,West Hyderabad
+972,Sandwich Eatery," Fast Food, Beverages",500,4.2,Kompally,,Secunderabad
+973,Fast Forward, Fusion,1700,3.9,L & T Metro Mall,Madhapur,West Hyderabad
+974,Beyond Bajji," Fast Food, Beverages, South Indian",500,,Amberpet,,East Hyderabad
+975,Wings N Pizza, Fast Food,500,3.2,Suraram,,Secunderabad
+976,Hotel Chandra Grand," Chinese, North Indian",800,4.7,Hotel Chandra Grand,Nacharam,East Hyderabad
+977,Kritunga - The Palegar Cuisine," Andhra, North Indian, Chinese, Hyderabadi",800,4.8,Kompally,,Secunderabad
+978,X-Lounge," Chinese, North Indian",1800,5,Phoenix Tower A,Hitech City,West Hyderabad
+979,Mystic Cafe," Continental, Health Food, Beverages",800,,Jubilee Hills,,Central West Hyderabad
+980,Nirvana Cafe & Family Resto Bar," North Indian, Chinese",1200,,Karkhana,,Secunderabad
+981,Bellinie & Bae," North Indian, Continental",1800,,Jubilee Hills,,Central West Hyderabad
+982,Deccan Serai," Mughlai, North Indian, Chinese",1000,4,Hotel Deccan Serai,Hitech City,West Hyderabad
+983,The Tea Planet,,300,,Jubilee Hills,,Central West Hyderabad
+984,Swiss Cafe," Fast Food, Desserts, Beverages",400,4.4,Manikonda,,West Hyderabad
+985,The ThickShake Factory, Beverages,400,4,Madhapur,,West Hyderabad
+986,The Funnel Hill Creamery," Desserts, Continental, Beverages",800,4,Madhapur,,West Hyderabad
+987,Kritunga Restaurant," Andhra, North Indian, Chinese, Hyderabadi",800,2.3,Malkajgiri,,Secunderabad
+988,Mumbai Treat," North Indian, Chinese, Italian, Fast Food, Beverages, Desserts",1000,,Film Nagar,,Central West Hyderabad
+989,Heart Cup Coffee," Continental, North Indian, Asian, Beverages",1400,4,Gachibowli,,West Hyderabad
+990,Giggle Water," Continental, Italian, Fast Food, Burger",2500,,Niharika Jubilee One,Jubilee Hills,Central West Hyderabad
+991,Blue Fox," North Indian, Chinese, Seafood",900,4.1,Minerva Grand,Kondapur,West Hyderabad
+992,Pachi Pulusu," North Indian, South Indian",1000,3.3,Manikonda,,West Hyderabad
+993,Constant Grind at Hard Rock Cafe," Fast Food, American, Burger, Continental",2400,3.5,Hitech City,,West Hyderabad
+994,Pizza Zone Signature," Pizza, Italian, Beverages, Desserts",700,5,Kompally,,Secunderabad
+995,ABs - Absolute Barbecues," North Indian, Continental",1600,4,SLN Plaza,Kompally,Secunderabad
+996,Delisco," Continental, Italian, Desserts, Beverages",800,4.8,Gachibowli,,West Hyderabad
+997,Dream Creamery, Desserts,400,,Cuba Food Havana,Film Nagar,Central West Hyderabad
+998,Felica, Continental,800,4.3,Kothaguda,,West Hyderabad
+999,Subway, Fast Food,500,5,Phoenix Tower A,Madhapur,West Hyderabad
+1000,Eat Burp Repeat," Continental, Italian",500,,Cuba Food Havana,Film Nagar,Central West Hyderabad
+1001,London Waffle Co., Desserts,300,,Cuba Food Havana,Film Nagar,Central West Hyderabad
+1002,Roll Zone, Fast Food,200,,Cuba Food Havana,Film Nagar,Central West Hyderabad
+1003,Yellolife Cafe," Italian, Health Food",1600,,Jubilee Hills,,Central West Hyderabad
+1004,Brundavan Bar & Restaurant," North Indian, Chinese",1200,3.9,Dilsukh Nagar,,East Hyderabad
+1005,Revel Ice cream, Desserts,200,,Jubilee Hills,,Central West Hyderabad
+1006,Oh! Calcutta," Bengali, Seafood",1800,4.2,Hitech City,,West Hyderabad
+1007,Kinara Grand," North Indian, Chinese",1000,2,Malkajgiri,,Secunderabad
+1008,Amara," North Indian, Chinese",2500,4.3,Trident Hotel,Hitech City,West Hyderabad
+1009,Tundey Kababi," Mughlai, Awadhi",500,4.5,Gachibowli,,West Hyderabad
+1010,Sha Sha - Shandaar Shawarma," Lebanese, Fast Food",300,2.3,Jeedimetla,,Secunderabad
+1011,Taro," Japanese, Asian, Chinese, Desserts",3500,,Jubilee Hills,,Central West Hyderabad
+1012,Resign Sky Bar," Continental, Finger Food",1800,4.2,Cyber Grub,Hitech City,West Hyderabad
+1013,Dough Mama," Pizza, Italian, Beverages",1000,,Jubilee Hills,,Central West Hyderabad
+1014,Tea Lounge," Continental, Tea",500,5,Lemon Tree Premier,"HITEC City, Hyderabad,Hitech City",West Hyderabad
+1015,Food Workshop, Fast Food,400,5,Kukatpally,,West Hyderabad
+1016,Holly Jolly Eats," Asian, Chinese, Japanese",1200,3,Madhapur,,West Hyderabad
+1017,Ohri's Cake Nation," Fast Food, Desserts",500,,Trimulgherry,,Secunderabad
+1018,Southern Spice," South Indian, North Indian, Chinese",600,3.4,Retro Drive In,Madhapur,West Hyderabad
+1019,CIBO House," Continental, Italian, European, Beverages, Desserts",1700,4.3,Phoenix Tower A,Hitech City,West Hyderabad
+1020,Mainland China," Chinese, Asian",1200,4.2,Hitech City,,West Hyderabad
+1021,The Punjabis Swag, North Indian,600,3.7,Madhapur,,West Hyderabad
+1022,Barista," Fast Food, Beverages, Desserts",900,,Malakpet,,South Hyderabad
+1023,Maggi," North Indian, Fast Food",200,,Mehdipatnam,,Central Hyderabad
+1024,Ala Dakshinapuramlo Buffet," South Indian, Seafood",1500,4,Phoenix Tower A,Hitech City,West Hyderabad
+1025,Apsara Ice Creams, Desserts,300,4.3,Kukatpally,,West Hyderabad
+1026,Ohri's Sahib's BBQ," North Indian, Awadhi, Hyderabadi",2000,3.6,Hitech City,,West Hyderabad
+1027,Itlu," South Indian, North Indian",1000,,Jubilee Hills,,Central West Hyderabad
+1028,Republic of Noodles," Chinese, Asian",2100,4.7,Lemon Tree Premier,"HITEC City, Hyderabad,Hitech City",West Hyderabad
